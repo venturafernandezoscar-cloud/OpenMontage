@@ -13,7 +13,7 @@ T, L, P = "tomi", "lia", "pipo"
 
 # ---------------- MUNDOS ----------------
 PRADO = "a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky"
-HUERTO = "a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight"
+HUERTO = "a magical vegetable garden with giant shiny appetizing vegetables (no faces, no eyes on the vegetables), butterflies, warm golden sunlight"
 GIRASOL = "a bright sunflower field with giant pumpkins, blue sky, warm sunlight"
 BANO = "a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light"
 PATIO = "a backyard at dusk with glowing fluorescent soap bubbles floating in the air, fairy lights"
@@ -39,7 +39,7 @@ DESFILE = [  # (t0, t1, plano)
     (16, 18, s([L], "Lia waves at the camera with both hands, front view", "Lia waves both hands at camera", PRADO)),
     (18, 20, s([], "an orange soap bubble bouncing on the grass without popping", "the bubble bounces three times", PRADO)),
     (20, 22, s([P], "the orange bubble pops and Pipo lands on his bottom looking surprised, low shot", "Pipo plops down and tilts his head", PRADO)),
-    (22, 24, s([P], "Pipo chases his own tail in circles, top-down view", "Pipo spins chasing his tail", PRADO)),
+    (22, 24, s([P], "Pipo playfully turns his head to look back at his small fluffy tail, normal corgi tail, three-quarter view", "Pipo turns around in a circle chasing his tail", PRADO)),
     (24, 26, s([P, "pipo_caras"], "Pipo, a bit dizzy, stops and tilts his head at the camera, close-up", "Pipo stops, wobbles dizzily and tilts his head", PRADO)),
     (26, 28, s([T, L, P], "Tomi, Lia and Pipo meet in the middle of the meadow and look at each other, wide shot", "the three walk toward each other and stop", PRADO)),
     (28, 30, s([T, L, P], "Tomi, Lia and Pipo share a big group hug with heart-shaped bubbles around them, medium shot", "they hug and heart bubbles float up", PRADO)),
@@ -63,7 +63,7 @@ VERDURITA = [
      s([T, L, P], "Tomi, Lia and Pipo put their hands on their hearts and smile, front view", "they place hands on hearts and smile", HUERTO)],
     [s([T], "Tomi leaps up among fluffy clouds toward a smiling sun", "Tomi floats up between clouds, camera tilts up", HUERTO)],
     [s([T, L, P], "Tomi, Lia and Pipo dance clapping with heart-shaped bubbles around, medium shot", "they clap and spin, heart bubbles float", HUERTO)],
-    [s([P], "Pipo sniffs and pops his head out of the leaves holding a broccoli, low ground shot", "Pipo sniffs and pokes out his head", HUERTO),
+    [s([P], "Pipo sniffs and pops his head out of the leaves holding a broccoli floret (no face on the broccoli), low ground shot", "Pipo sniffs and pokes out his head", HUERTO),
      s([P], "the broccoli grows into a little tree and Pipo sits under it, low angle", "the broccoli grows into a tree above Pipo", HUERTO)],
     [s([L], "Lia opens a pea pod and three peas jump out, close-up of hands", "three peas pop out one by one", HUERTO)],
     [s([T, "tomi_caras"], "Tomi brings a broccoli floret to his mouth with a doubtful face, close-up", "Tomi hesitates, looking at the broccoli", HUERTO)],
