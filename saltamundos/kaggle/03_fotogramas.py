@@ -34,7 +34,9 @@ t0 = time.time()
 if not os.path.isdir(COMFY):
     sh(f"git clone -q --depth 1 https://github.com/comfyanonymous/ComfyUI.git {COMFY}")
     sh(f"git clone -q --depth 1 https://github.com/city96/ComfyUI-GGUF.git {COMFY}/custom_nodes/ComfyUI-GGUF")
-    req = [l for l in open(f"{COMFY}/requirements.txt").read().split("\n") if l and not l.startswith(("torch", "#"))]
+    # se respeta el torch con CUDA que ya trae Kaggle; el resto (torchsde incluido) se instala
+    req = [l for l in open(f"{COMFY}/requirements.txt").read().split("\n")
+           if l and not l.startswith("#") and l.split("=")[0].split(">")[0].strip() not in ("torch", "torchvision", "torchaudio")]
     open("/tmp/req.txt", "w").write("\n".join(req))
     sh(f"{sys.executable} -m pip install -q -r /tmp/req.txt -r {COMFY}/custom_nodes/ComfyUI-GGUF/requirements.txt")
 
