@@ -94,7 +94,7 @@ ESTILO = ("3D animated children's cartoon, premium feature-film CGI quality, sof
           "skin, big glossy expressive eyes, vibrant pastel-bright colors, cheerful cozy mood, 16:9 cinematic frame")
 NOMBRES = {"tomi": "Tomi (the baby boy with a thick fluffy mop of golden-blond curls covering his whole head, mint-green overalls with a yellow sun patch)",
            "lia": "Lia (the girl with two curly hair puffs and the purple polka-dot dress)",
-           "pipo": "Pipo (the corgi puppy with the red bandana)"}
+           "pipo": "Pipo (the SMALL corgi puppy with the red bandana, only about half as tall as Tomi)"}
 
 
 def flujo(refs, escena, seed, prefijo, ancho=1024, alto=576):
@@ -132,7 +132,7 @@ def generar(gpu, refs, escena, seed, nombre):
     pt = PUERTOS[gpu]
     refs = list(dict.fromkeys(r.split("_")[0] for r in refs))      # tomi_caras -> tomi; sin repetidos
     if len(refs) == 3:
-        escena += ", Tomi on the left, Lia in the middle, Pipo on the right, all three fully visible"
+        escena += ", Tomi on the left, Lia in the middle, little Pipo on the right (a small puppy, his head below the children's shoulders), all three fully visible"
     r = api(pt, "/prompt", {"prompt": flujo(refs, escena, seed, nombre), "client_id": uuid.uuid4().hex})
     if r.get("node_errors"):
         raise RuntimeError(f"Error en el flujo: {r['node_errors']}")
