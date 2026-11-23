@@ -1,0 +1,1397 @@
+[
+ {
+  "id": "00_desfile_00",
+  "cancion": "05_desfile_v2",
+  "t0": 0,
+  "t1": 2,
+  "refs": [],
+  "escena": "three colorful soap bubbles (mint green, purple and orange) slowly falling from the sky over the meadow, wide shot, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "bubbles drift down gently, camera cranes down"
+ },
+ {
+  "id": "00_desfile_01",
+  "cancion": "05_desfile_v2",
+  "t0": 2,
+  "t1": 4,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "the mint-green bubble pops and Tomi sits on the grass looking surprised, medium shot, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "bubble bursts into sparkles, Tomi blinks surprised"
+ },
+ {
+  "id": "00_desfile_02",
+  "cancion": "05_desfile_v2",
+  "t0": 4,
+  "t1": 6,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi looks at his hands and claps happily, close-up, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Tomi claps his hands twice and giggles"
+ },
+ {
+  "id": "00_desfile_03",
+  "cancion": "05_desfile_v2",
+  "t0": 6,
+  "t1": 8,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi crawls fast toward the camera, low ground-level shot, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Tomi crawls quickly toward camera, camera dollies back"
+ },
+ {
+  "id": "00_desfile_04",
+  "cancion": "05_desfile_v2",
+  "t0": 8,
+  "t1": 10,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi stands up wobbly and does a proud triumphant pose, low angle, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Tomi stands up, wobbles, then raises both arms proudly"
+ },
+ {
+  "id": "00_desfile_05",
+  "cancion": "05_desfile_v2",
+  "t0": 10,
+  "t1": 12,
+  "refs": [
+   "lia"
+  ],
+  "escena": "the purple bubble lands and Lia spins out of it like a ballerina, medium shot, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Lia twirls around once, dress flaring"
+ },
+ {
+  "id": "00_desfile_06",
+  "cancion": "05_desfile_v2",
+  "t0": 12,
+  "t1": 14,
+  "refs": [
+   "lia"
+  ],
+  "escena": "Lia does three little hops, her hair puffs bouncing, full body, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Lia hops three times happily"
+ },
+ {
+  "id": "00_desfile_07",
+  "cancion": "05_desfile_v2",
+  "t0": 14,
+  "t1": 16,
+  "refs": [
+   "lia",
+   "lia_caras"
+  ],
+  "escena": "Lia raises her index finger with a bright 'I know!' face and a little sparkle star appears, close-up, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Lia raises her finger and smiles, a sparkle pops"
+ },
+ {
+  "id": "00_desfile_08",
+  "cancion": "05_desfile_v2",
+  "t0": 16,
+  "t1": 18,
+  "refs": [
+   "lia"
+  ],
+  "escena": "Lia waves at the camera with both hands, front view, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Lia waves both hands at camera"
+ },
+ {
+  "id": "00_desfile_09",
+  "cancion": "05_desfile_v2",
+  "t0": 18,
+  "t1": 20,
+  "refs": [],
+  "escena": "an orange soap bubble bouncing on the grass without popping, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "the bubble bounces three times"
+ },
+ {
+  "id": "00_desfile_10",
+  "cancion": "05_desfile_v2",
+  "t0": 20,
+  "t1": 22,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "the orange bubble pops and Pipo lands on his bottom looking surprised, low shot, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Pipo plops down and tilts his head"
+ },
+ {
+  "id": "00_desfile_11",
+  "cancion": "05_desfile_v2",
+  "t0": 22,
+  "t1": 24,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "Pipo chases his own tail in circles, top-down view, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Pipo spins chasing his tail"
+ },
+ {
+  "id": "00_desfile_12",
+  "cancion": "05_desfile_v2",
+  "t0": 24,
+  "t1": 26,
+  "refs": [
+   "pipo",
+   "pipo_caras"
+  ],
+  "escena": "Pipo, a bit dizzy, stops and tilts his head at the camera, close-up, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Pipo stops, wobbles dizzily and tilts his head"
+ },
+ {
+  "id": "00_desfile_13",
+  "cancion": "05_desfile_v2",
+  "t0": 26,
+  "t1": 28,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo meet in the middle of the meadow and look at each other, wide shot, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "the three walk toward each other and stop"
+ },
+ {
+  "id": "00_desfile_14",
+  "cancion": "05_desfile_v2",
+  "t0": 28,
+  "t1": 30,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo share a big group hug with heart-shaped bubbles around them, medium shot, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "they hug and heart bubbles float up"
+ },
+ {
+  "id": "00_desfile_15",
+  "cancion": "05_desfile_v2",
+  "t0": 30,
+  "t1": 34,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo dance together clapping, spinning and jumping, full body, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "they clap, spin and jump in rhythm, camera circles around"
+ },
+ {
+  "id": "00_desfile_16",
+  "cancion": "05_desfile_v2",
+  "t0": 34,
+  "t1": 38,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo dance in a circle of flowers that sway with them, top-down, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "they dance in a circle while flowers sway"
+ },
+ {
+  "id": "00_desfile_17",
+  "cancion": "05_desfile_v2",
+  "t0": 38,
+  "t1": 41,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Tomi rubs his rumbling tummy and Lia points far away at a glowing vegetable garden, medium shot, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Tomi rubs his tummy, Lia points into the distance"
+ },
+ {
+  "id": "00_desfile_18",
+  "cancion": "05_desfile_v2",
+  "t0": 41,
+  "t1": 45,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo run toward a giant iridescent soap-bubble portal opening in the meadow, wide shot from behind, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "they run toward the swirling bubble portal, camera follows"
+ },
+ {
+  "id": "01_verdurita_00",
+  "cancion": "01_verdurita_v1",
+  "t0": 0.0,
+  "t1": 7.84,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo land on a giant bouncy lettuce leaf and look around amazed, wide shot, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "they bounce softly on the leaf and look around"
+ },
+ {
+  "id": "01_verdurita_01a",
+  "cancion": "01_verdurita_v1",
+  "t0": 7.84,
+  "t1": 9.63,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi rubs his tummy with a funny hungry face, close-up, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Tomi rubs his tummy and pouts"
+ },
+ {
+  "id": "01_verdurita_01b",
+  "cancion": "01_verdurita_v1",
+  "t0": 9.63,
+  "t1": 11.42,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi opens and closes his mouth 'nom nom nom', extreme close-up, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Tomi chomps the air three times"
+ },
+ {
+  "id": "01_verdurita_02",
+  "cancion": "01_verdurita_v1",
+  "t0": 11.42,
+  "t1": 15.72,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "a giant rainbow lollipop shines among the plants, Tomi reaches out his hand toward it, medium shot, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Tomi slowly reaches for the lollipop and freezes"
+ },
+ {
+  "id": "01_verdurita_03a",
+  "cancion": "01_verdurita_v1",
+  "t0": 15.72,
+  "t1": 17.52,
+  "refs": [
+   "lia"
+  ],
+  "escena": "Lia arrives holding a bright shiny carrot, three-quarter medium shot, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Lia walks in holding up the carrot"
+ },
+ {
+  "id": "01_verdurita_03b",
+  "cancion": "01_verdurita_v1",
+  "t0": 17.52,
+  "t1": 19.32,
+  "refs": [
+   "lia",
+   "lia_caras"
+  ],
+  "escena": "Lia bites the carrot, little orange crumbs flying in slow motion, close-up, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Lia takes a crunchy bite"
+ },
+ {
+  "id": "01_verdurita_04",
+  "cancion": "01_verdurita_v1",
+  "t0": 19.32,
+  "t1": 23.18,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Lia hands the carrot to Tomi who bites it with full cheeks and a big smile, two-shot, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Tomi bites the carrot and smiles with full cheeks"
+ },
+ {
+  "id": "01_verdurita_05",
+  "cancion": "01_verdurita_v1",
+  "t0": 23.18,
+  "t1": 27.28,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi glows with a soft green aura and jumps very high, low angle, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Tomi jumps high into the air with arms raised"
+ },
+ {
+  "id": "01_verdurita_06a",
+  "cancion": "01_verdurita_v1",
+  "t0": 27.28,
+  "t1": 29.35,
+  "refs": [
+   "lia"
+  ],
+  "escena": "Lia lifts a giant pumpkin with one finger as a funny gag, full body, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Lia lifts the giant pumpkin effortlessly"
+ },
+ {
+  "id": "01_verdurita_06b",
+  "cancion": "01_verdurita_v1",
+  "t0": 29.35,
+  "t1": 31.42,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo put their hands on their hearts and smile, front view, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "they place hands on hearts and smile"
+ },
+ {
+  "id": "01_verdurita_07",
+  "cancion": "01_verdurita_v1",
+  "t0": 31.42,
+  "t1": 35.3,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi leaps up among fluffy clouds toward a smiling sun, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Tomi floats up between clouds, camera tilts up"
+ },
+ {
+  "id": "01_verdurita_08",
+  "cancion": "01_verdurita_v1",
+  "t0": 35.3,
+  "t1": 41.48,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo dance clapping with heart-shaped bubbles around, medium shot, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "they clap and spin, heart bubbles float"
+ },
+ {
+  "id": "01_verdurita_09a",
+  "cancion": "01_verdurita_v1",
+  "t0": 41.48,
+  "t1": 43.48,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "Pipo sniffs and pops his head out of the leaves holding a broccoli, low ground shot, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Pipo sniffs and pokes out his head"
+ },
+ {
+  "id": "01_verdurita_09b",
+  "cancion": "01_verdurita_v1",
+  "t0": 43.48,
+  "t1": 45.48,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "the broccoli grows into a little tree and Pipo sits under it, low angle, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "the broccoli grows into a tree above Pipo"
+ },
+ {
+  "id": "01_verdurita_10",
+  "cancion": "01_verdurita_v1",
+  "t0": 45.48,
+  "t1": 49.99,
+  "refs": [
+   "lia"
+  ],
+  "escena": "Lia opens a pea pod and three peas jump out, close-up of hands, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "three peas pop out one by one"
+ },
+ {
+  "id": "01_verdurita_11",
+  "cancion": "01_verdurita_v1",
+  "t0": 49.99,
+  "t1": 53.3,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi brings a broccoli floret to his mouth with a doubtful face, close-up, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Tomi hesitates, looking at the broccoli"
+ },
+ {
+  "id": "01_verdurita_12",
+  "cancion": "01_verdurita_v1",
+  "t0": 53.3,
+  "t1": 57.32,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi's eyes light up with delight and he claps asking for more, front view, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Tomi's eyes light up and he claps happily"
+ },
+ {
+  "id": "01_verdurita_13",
+  "cancion": "01_verdurita_v1",
+  "t0": 57.32,
+  "t1": 61.26,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo bounce on giant pumpkins like trampolines, wide shot, a bright sunflower field with giant pumpkins, blue sky, warm sunlight",
+  "movimiento": "they bounce up and down on pumpkins"
+ },
+ {
+  "id": "01_verdurita_14",
+  "cancion": "01_verdurita_v1",
+  "t0": 61.26,
+  "t1": 65.46,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Tomi and Lia run hand in hand through tall sunflowers, side tracking shot, a bright sunflower field with giant pumpkins, blue sky, warm sunlight",
+  "movimiento": "they run through the sunflowers, camera tracks sideways"
+ },
+ {
+  "id": "01_verdurita_15",
+  "cancion": "01_verdurita_v1",
+  "t0": 65.46,
+  "t1": 69.28,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi jumps over a giant pumpkin toward the sun, low angle, a bright sunflower field with giant pumpkins, blue sky, warm sunlight",
+  "movimiento": "Tomi leaps over the pumpkin"
+ },
+ {
+  "id": "01_verdurita_16",
+  "cancion": "01_verdurita_v1",
+  "t0": 69.28,
+  "t1": 75.44,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo strike a happy pose with arms up among sunflowers, front, a bright sunflower field with giant pumpkins, blue sky, warm sunlight",
+  "movimiento": "they jump and pose with arms up"
+ },
+ {
+  "id": "01_verdurita_17a",
+  "cancion": "01_verdurita_v1",
+  "t0": 75.44,
+  "t1": 77.58,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "a giant red tomato rolls past Tomi and Lia, the scene tinted warm red, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "a tomato rolls by, the children laugh"
+ },
+ {
+  "id": "01_verdurita_17b",
+  "cancion": "01_verdurita_v1",
+  "t0": 77.58,
+  "t1": 79.72,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "orange carrots pop up out of the ground around Pipo, low shot, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "carrots pop out of the soil"
+ },
+ {
+  "id": "01_verdurita_18a",
+  "cancion": "01_verdurita_v1",
+  "t0": 79.72,
+  "t1": 81.64,
+  "refs": [],
+  "escena": "broccoli trees sway in the breeze, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "broccoli trees sway"
+ },
+ {
+  "id": "01_verdurita_18b",
+  "cancion": "01_verdurita_v1",
+  "t0": 81.64,
+  "t1": 83.56,
+  "refs": [
+   "lia"
+  ],
+  "escena": "Lia in her purple dress stands next to a giant eggplant of the same color and laughs, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Lia laughs, comparing her dress with the eggplant"
+ },
+ {
+  "id": "01_verdurita_19a",
+  "cancion": "01_verdurita_v1",
+  "t0": 83.56,
+  "t1": 85.63,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "a corn cob pops popcorn that rains on Pipo, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "popcorn pops and rains on Pipo"
+ },
+ {
+  "id": "01_verdurita_19b",
+  "cancion": "01_verdurita_v1",
+  "t0": 85.63,
+  "t1": 87.7,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo look at a plate full of rainbow vegetables with amazement, top-down, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "they lean over the shiny rainbow plate"
+ },
+ {
+  "id": "01_verdurita_20",
+  "cancion": "01_verdurita_v1",
+  "t0": 87.7,
+  "t1": 91.5,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "a rainbow lollipop reappears and Lia breaks off a tiny piece for Tomi, medium two-shot, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Lia breaks off a tiny piece and gives it to Tomi"
+ },
+ {
+  "id": "01_verdurita_21",
+  "cancion": "01_verdurita_v1",
+  "t0": 91.5,
+  "t1": 95.48,
+  "refs": [
+   "lia",
+   "lia_caras"
+  ],
+  "escena": "Lia raises her index finger with a wise smile while a giant bubble portal opens in the sky behind her, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "Lia raises her finger, the portal swirls open"
+ },
+ {
+  "id": "01_verdurita_22",
+  "cancion": "01_verdurita_v1",
+  "t0": 95.48,
+  "t1": 99.24,
+  "reusar": "01_verdurita_05"
+ },
+ {
+  "id": "01_verdurita_23",
+  "cancion": "01_verdurita_v1",
+  "t0": 99.24,
+  "t1": 103.42,
+  "reusar": "01_verdurita_07"
+ },
+ {
+  "id": "01_verdurita_24",
+  "cancion": "01_verdurita_v1",
+  "t0": 103.42,
+  "t1": 107.3,
+  "reusar": "01_verdurita_13"
+ },
+ {
+  "id": "01_verdurita_25",
+  "cancion": "01_verdurita_v1",
+  "t0": 107.3,
+  "t1": 112.4,
+  "reusar": "01_verdurita_08"
+ },
+ {
+  "id": "01_verdurita_26",
+  "cancion": "01_verdurita_v1",
+  "t0": 112.4,
+  "t1": 130.032,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo jump into the swirling bubble portal in slow motion, Tomi winks at the camera, a magical vegetable garden with giant shiny vegetables that have cute closed-mouth smiling eyes, butterflies, warm golden sunlight",
+  "movimiento": "they leap into the portal in slow motion"
+ },
+ {
+  "id": "02_burbujas_00",
+  "cancion": "02_burbujas_v2",
+  "t0": 0.0,
+  "t1": 4.96,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi crawls along a sunny hallway toward the bathroom door, ground-level shot",
+  "movimiento": "Tomi crawls toward the door, camera follows"
+ },
+ {
+  "id": "02_burbujas_01a",
+  "cancion": "02_burbujas_v2",
+  "t0": 4.96,
+  "t1": 6.63,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi walks wobbly toward the bathtub, medium side shot, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "Tomi toddles toward the tub"
+ },
+ {
+  "id": "02_burbujas_01b",
+  "cancion": "02_burbujas_v2",
+  "t0": 6.63,
+  "t1": 8.3,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi's little feet stomp in three tiny puddles on the tiles, close-up, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "little feet splash in puddles"
+ },
+ {
+  "id": "02_burbujas_02a",
+  "cancion": "02_burbujas_v2",
+  "t0": 8.3,
+  "t1": 10.38,
+  "refs": [
+   "lia"
+  ],
+  "escena": "Lia turns the faucet with both hands, three-quarter shot, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "Lia turns the tap"
+ },
+ {
+  "id": "02_burbujas_02b",
+  "cancion": "02_burbujas_v2",
+  "t0": 10.38,
+  "t1": 12.46,
+  "refs": [],
+  "escena": "water gushes into the bathtub with sparkling splashes, slow motion close-up, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "water fills the tub with splashes"
+ },
+ {
+  "id": "02_burbujas_03a",
+  "cancion": "02_burbujas_v2",
+  "t0": 12.46,
+  "t1": 14.43,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "Pipo trots in with a yellow rubber duck in his mouth, low shot, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "Pipo trots in carrying the duck"
+ },
+ {
+  "id": "02_burbujas_03b",
+  "cancion": "02_burbujas_v2",
+  "t0": 14.43,
+  "t1": 16.4,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "Pipo squeezes the rubber duck, close-up, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "Pipo squeaks the duck three times"
+ },
+ {
+  "id": "02_burbujas_04",
+  "cancion": "02_burbujas_v2",
+  "t0": 16.4,
+  "t1": 21.48,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Lia lifts Tomi into the bathtub full of foam, Tomi raises his arms with joy, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "Lia lifts Tomi into the foamy tub"
+ },
+ {
+  "id": "02_burbujas_05a",
+  "cancion": "02_burbujas_v2",
+  "t0": 21.48,
+  "t1": 23.43,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi blows and five giant soap bubbles come out, close-up, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "Tomi blows a stream of big bubbles"
+ },
+ {
+  "id": "02_burbujas_05b",
+  "cancion": "02_burbujas_v2",
+  "t0": 23.43,
+  "t1": 25.38,
+  "refs": [],
+  "escena": "giant soap bubbles rise toward a window with golden light, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "bubbles float upward, camera cranes up"
+ },
+ {
+  "id": "02_burbujas_06a",
+  "cancion": "02_burbujas_v2",
+  "t0": 25.38,
+  "t1": 27.105,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Tomi and Lia clap and more bubbles appear, two-shot, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "they clap and bubbles burst out"
+ },
+ {
+  "id": "02_burbujas_06b",
+  "cancion": "02_burbujas_v2",
+  "t0": 27.105,
+  "t1": 28.83,
+  "refs": [],
+  "escena": "a macro shot of rainbow-colored soap bubbles with shallow depth of field, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "bubbles shimmer with rainbow colors"
+ },
+ {
+  "id": "02_burbujas_07a",
+  "cancion": "02_burbujas_v2",
+  "t0": 28.83,
+  "t1": 31.155,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "a bubble pops on Tomi's nose and he goes cross-eyed, extreme close-up, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "a bubble pops on his nose, he goes cross-eyed and giggles"
+ },
+ {
+  "id": "02_burbujas_07b",
+  "cancion": "02_burbujas_v2",
+  "t0": 31.155,
+  "t1": 33.48,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "a bubble pops on Tomi's feet sticking out of the foam, close-up, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "a bubble pops on his toes"
+ },
+ {
+  "id": "02_burbujas_08",
+  "cancion": "02_burbujas_v2",
+  "t0": 33.48,
+  "t1": 39.15,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Tomi and Lia sway left and right in the bath counting on their fingers, front, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "they sway and count one, two, three on fingers"
+ },
+ {
+  "id": "02_burbujas_09",
+  "cancion": "02_burbujas_v2",
+  "t0": 39.15,
+  "t1": 44.3,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi rubs his cheeks with a yellow sponge, eyes closed, close-up, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "Tomi scrubs his cheeks in circles"
+ },
+ {
+  "id": "02_burbujas_10",
+  "cancion": "02_burbujas_v2",
+  "t0": 44.3,
+  "t1": 48.32,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Lia shapes Tomi's foamy hair into a funny little horn while he giggles, two-shot, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "Lia styles foam on his head, Tomi giggles"
+ },
+ {
+  "id": "02_burbujas_11",
+  "cancion": "02_burbujas_v2",
+  "t0": 48.32,
+  "t1": 50.8,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "wet Pipo shakes himself, water drops flying in slow motion, wide shot, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "Pipo shakes off water in slow motion"
+ },
+ {
+  "id": "02_burbujas_12",
+  "cancion": "02_burbujas_v2",
+  "t0": 50.8,
+  "t1": 57.04,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi and Lia soaked with open mouths while Pipo spins happily, wide shot, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "they laugh while Pipo spins"
+ },
+ {
+  "id": "02_burbujas_13",
+  "cancion": "02_burbujas_v2",
+  "t0": 57.04,
+  "t1": 60.24,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo blow glowing bubbles in the backyard at dusk, wide shot, a backyard at dusk with glowing fluorescent soap bubbles floating in the air, fairy lights",
+  "movimiento": "glowing bubbles float around them"
+ },
+ {
+  "id": "02_burbujas_14",
+  "cancion": "02_burbujas_v2",
+  "t0": 60.24,
+  "t1": 64.26,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Tomi and Lia chase glowing bubbles, top-down shot, a backyard at dusk with glowing fluorescent soap bubbles floating in the air, fairy lights",
+  "movimiento": "they chase glowing bubbles"
+ },
+ {
+  "id": "02_burbujas_15",
+  "cancion": "02_burbujas_v2",
+  "t0": 64.26,
+  "t1": 68.38,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "a glowing bubble pops on Tomi's nose, close-up, a backyard at dusk with glowing fluorescent soap bubbles floating in the air, fairy lights",
+  "movimiento": "the bubble pops, Tomi laughs"
+ },
+ {
+  "id": "02_burbujas_16",
+  "cancion": "02_burbujas_v2",
+  "t0": 68.38,
+  "t1": 72.5,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo count to three with fingers under fairy lights, front, a backyard at dusk with glowing fluorescent soap bubbles floating in the air, fairy lights",
+  "movimiento": "they count on their fingers and cheer"
+ },
+ {
+  "id": "02_burbujas_17",
+  "cancion": "02_burbujas_v2",
+  "t0": 72.5,
+  "t1": 78.5,
+  "refs": [
+   "lia"
+  ],
+  "escena": "Lia tips a basket of rubber ducks from above the bathtub, low angle, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "Lia tips the basket over"
+ },
+ {
+  "id": "02_burbujas_18",
+  "cancion": "02_burbujas_v2",
+  "t0": 78.5,
+  "t1": 82.24,
+  "reusar": "02_burbujas_06a"
+ },
+ {
+  "id": "02_burbujas_19",
+  "cancion": "02_burbujas_v2",
+  "t0": 82.24,
+  "t1": 86.88,
+  "reusar": "02_burbujas_08"
+ },
+ {
+  "id": "02_burbujas_20",
+  "cancion": "02_burbujas_v2",
+  "t0": 86.88,
+  "t1": 90.38,
+  "reusar": "02_burbujas_05a"
+ },
+ {
+  "id": "02_burbujas_21",
+  "cancion": "02_burbujas_v2",
+  "t0": 90.38,
+  "t1": 94.48,
+  "reusar": "02_burbujas_07a"
+ },
+ {
+  "id": "02_burbujas_22",
+  "cancion": "02_burbujas_v2",
+  "t0": 94.48,
+  "t1": 98.66,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Lia wraps Tomi in a duck hooded towel, all three wave goodbye sleepily, warm light, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "they wave, Tomi yawns"
+ },
+ {
+  "id": "02_burbujas_23",
+  "cancion": "02_burbujas_v2",
+  "t0": 98.66,
+  "t1": 105.024,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo jump into a glowing bubble portal wrapped in towels, laughing, a bright cozy bathroom with colorful tiles and a bathtub full of rainbow foam bubbles, rubber ducks, golden window light",
+  "movimiento": "they hop into the portal"
+ },
+ {
+  "id": "03_cepillo_00",
+  "cancion": "03_cepillo_v3",
+  "t0": 0.0,
+  "t1": 8.5,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi climbs onto his little step stool and looks at the mirror, over-the-shoulder shot, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Tomi climbs up and looks at the mirror"
+ },
+ {
+  "id": "03_cepillo_01",
+  "cancion": "03_cepillo_v3",
+  "t0": 8.5,
+  "t1": 12.16,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi licks his lips happily remembering a candy, close-up, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Tomi licks his lips and smiles"
+ },
+ {
+  "id": "03_cepillo_02",
+  "cancion": "03_cepillo_v3",
+  "t0": 12.16,
+  "t1": 16.1,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi smiles wide at the mirror showing his two little teeth, close-up through the mirror, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Tomi grins at the mirror, camera zooms in"
+ },
+ {
+  "id": "03_cepillo_03",
+  "cancion": "03_cepillo_v3",
+  "t0": 16.1,
+  "t1": 19.66,
+  "refs": [],
+  "escena": "tiny cute purple sticky blobs with funny faces dance on two white baby teeth, macro shot, a magical world of soft white tooth-shaped hills and minty foam clouds, playful and clean, seen through a mirror",
+  "movimiento": "the little purple blobs wiggle and giggle"
+ },
+ {
+  "id": "03_cepillo_04",
+  "cancion": "03_cepillo_v3",
+  "t0": 19.66,
+  "t1": 24.78,
+  "refs": [
+   "lia"
+  ],
+  "escena": "Lia arrives holding two colorful toothbrushes up like superheroes, low angle, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Lia raises the toothbrushes heroically"
+ },
+ {
+  "id": "03_cepillo_05",
+  "cancion": "03_cepillo_v3",
+  "t0": 24.78,
+  "t1": 28.32,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi brushes his teeth up and down with a mint toothbrush, front view through mirror, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Tomi brushes up and down"
+ },
+ {
+  "id": "03_cepillo_06",
+  "cancion": "03_cepillo_v3",
+  "t0": 28.32,
+  "t1": 32.44,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Tomi and Lia brush their teeth side to side in sync, two-shot, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "they brush side to side together"
+ },
+ {
+  "id": "03_cepillo_07",
+  "cancion": "03_cepillo_v3",
+  "t0": 32.44,
+  "t1": 36.16,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi brushes in little circles with minty foam clouds around, close-up, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Tomi brushes in circles, foam puffs"
+ },
+ {
+  "id": "03_cepillo_08",
+  "cancion": "03_cepillo_v3",
+  "t0": 36.16,
+  "t1": 40.02,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo show big shiny smiles with sparkles, medium shot, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "they smile wide and sparkles twinkle"
+ },
+ {
+  "id": "03_cepillo_09",
+  "cancion": "03_cepillo_v3",
+  "t0": 40.02,
+  "t1": 44.3,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "Pipo appears with a toothbrush in his mouth wagging his tail, low shot, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Pipo wags his tail holding a toothbrush"
+ },
+ {
+  "id": "03_cepillo_10",
+  "cancion": "03_cepillo_v3",
+  "t0": 44.3,
+  "t1": 48.3,
+  "refs": [
+   "lia",
+   "pipo"
+  ],
+  "escena": "Lia gently brushes Pipo's teeth and Pipo smiles with shiny teeth, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Lia brushes Pipo's teeth, he smiles"
+ },
+ {
+  "id": "03_cepillo_11",
+  "cancion": "03_cepillo_v3",
+  "t0": 48.3,
+  "t1": 52.36,
+  "refs": [],
+  "escena": "a pea-sized dab of toothpaste squeezed onto a toothbrush next to a green pea, macro top-down, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "toothpaste squeezes out"
+ },
+ {
+  "id": "03_cepillo_12",
+  "cancion": "03_cepillo_v3",
+  "t0": 52.36,
+  "t1": 57.58,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Tomi and Lia brush counting one, two, three, front view, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "they brush and count"
+ },
+ {
+  "id": "03_cepillo_13",
+  "cancion": "03_cepillo_v3",
+  "t0": 57.58,
+  "t1": 61.18,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo brush their teeth dancing on soft white tooth-shaped hills, a magical world of soft white tooth-shaped hills and minty foam clouds, playful and clean, seen through a mirror",
+  "movimiento": "they brush and dance on the hills"
+ },
+ {
+  "id": "03_cepillo_14",
+  "cancion": "03_cepillo_v3",
+  "t0": 61.18,
+  "t1": 64.98,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Tomi and Lia slide down a minty foam cloud laughing, a magical world of soft white tooth-shaped hills and minty foam clouds, playful and clean, seen through a mirror",
+  "movimiento": "they slide down the foam cloud"
+ },
+ {
+  "id": "03_cepillo_15",
+  "cancion": "03_cepillo_v3",
+  "t0": 64.98,
+  "t1": 68.7,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi holds up his toothbrush like a magic wand, sparkles everywhere, a magical world of soft white tooth-shaped hills and minty foam clouds, playful and clean, seen through a mirror",
+  "movimiento": "Tomi waves the toothbrush, sparkles fly"
+ },
+ {
+  "id": "03_cepillo_16",
+  "cancion": "03_cepillo_v3",
+  "t0": 68.7,
+  "t1": 73.18,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo jump with big shiny smiles among sparkles, a magical world of soft white tooth-shaped hills and minty foam clouds, playful and clean, seen through a mirror",
+  "movimiento": "they jump and smile"
+ },
+ {
+  "id": "03_cepillo_17",
+  "cancion": "03_cepillo_v3",
+  "t0": 73.18,
+  "t1": 76.74,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi gargles with puffed cheeks holding a colorful cup, close-up, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Tomi gargles with puffed cheeks"
+ },
+ {
+  "id": "03_cepillo_18",
+  "cancion": "03_cepillo_v3",
+  "t0": 76.74,
+  "t1": 80.66,
+  "refs": [
+   "tomi"
+  ],
+  "escena": "Tomi leans over the sink and spits, the little purple blobs slide down the drain like a water slide, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Tomi spits, blobs slide away"
+ },
+ {
+  "id": "03_cepillo_19",
+  "cancion": "03_cepillo_v3",
+  "t0": 80.66,
+  "t1": 85.2,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo wave goodbye to the tiny friendly purple blobs at the drain, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "they wave bye-bye"
+ },
+ {
+  "id": "03_cepillo_20",
+  "cancion": "03_cepillo_v3",
+  "t0": 85.2,
+  "t1": 89.88,
+  "reusar": "03_cepillo_05"
+ },
+ {
+  "id": "03_cepillo_21",
+  "cancion": "03_cepillo_v3",
+  "t0": 89.88,
+  "t1": 94.18,
+  "reusar": "03_cepillo_06"
+ },
+ {
+  "id": "03_cepillo_22",
+  "cancion": "03_cepillo_v3",
+  "t0": 94.18,
+  "t1": 97.16,
+  "reusar": "03_cepillo_07"
+ },
+ {
+  "id": "03_cepillo_23",
+  "cancion": "03_cepillo_v3",
+  "t0": 97.16,
+  "t1": 101.36,
+  "reusar": "03_cepillo_08"
+ },
+ {
+  "id": "03_cepillo_24",
+  "cancion": "03_cepillo_v3",
+  "t0": 101.36,
+  "t1": 120.024,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi shows his shiny smile to the camera and winks while a bubble portal to the night opens behind him, a bright cozy bathroom with a big mirror and a small step stool, minty foam, colorful toothbrushes",
+  "movimiento": "Tomi winks, the portal opens"
+ },
+ {
+  "id": "04_buenas_noches_00",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 0.0,
+  "t1": 4.54,
+  "refs": [],
+  "escena": "a bubble portal slowly opens in Tomi's bedroom at sunset, wide shot, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "the portal glows softly, camera cranes slowly"
+ },
+ {
+  "id": "04_buenas_noches_01",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 4.54,
+  "t1": 11.24,
+  "refs": [],
+  "escena": "a sleepy sun yawns and sets behind the hills while the smiling moon rises and stars light up one by one, view through the window, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "the sun sets, the moon rises, stars switch on"
+ },
+ {
+  "id": "04_buenas_noches_02",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 11.24,
+  "t1": 18.84,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Lia helps Tomi put on blue star pajamas, Tomi hugs his soft sleeve, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "Lia helps Tomi into pajamas, he hugs his sleeve"
+ },
+ {
+  "id": "04_buenas_noches_03",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 18.84,
+  "t1": 23.96,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo sway sleepily on a cloud-like bed while stars float down, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "they sway gently as stars drift down"
+ },
+ {
+  "id": "04_buenas_noches_04",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 23.96,
+  "t1": 29.14,
+  "refs": [],
+  "escena": "silhouettes of the meadow, the vegetable garden and the bathtub projected softly on the starry ceiling, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "dreamy shapes glow on the ceiling"
+ },
+ {
+  "id": "04_buenas_noches_05",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 29.14,
+  "t1": 33.66,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi closes one eye and then the other, extreme close-up, soft light, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "Tomi slowly closes his eyes"
+ },
+ {
+  "id": "04_buenas_noches_06",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 33.66,
+  "t1": 40.427,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo wave very softly to the camera from the bed, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "they wave goodnight gently"
+ },
+ {
+  "id": "04_buenas_noches_07",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 40.427,
+  "t1": 45.8,
+  "refs": [
+   "lia"
+  ],
+  "escena": "Lia opens a storybook and glowing fish and stars swim out into the room, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "glowing fish and stars float out of the book"
+ },
+ {
+  "id": "04_buenas_noches_08",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 45.8,
+  "t1": 51.8,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Pipo curls into a ball, then Pipo, Tomi and Lia yawn one after another, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "contagious yawns, one after another"
+ },
+ {
+  "id": "04_buenas_noches_09",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 51.8,
+  "t1": 56.88,
+  "reusar": "04_buenas_noches_03"
+ },
+ {
+  "id": "04_buenas_noches_10",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 56.88,
+  "t1": 62.8,
+  "reusar": "04_buenas_noches_04"
+ },
+ {
+  "id": "04_buenas_noches_11",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 62.8,
+  "t1": 66.66,
+  "reusar": "04_buenas_noches_05"
+ },
+ {
+  "id": "04_buenas_noches_12",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 66.66,
+  "t1": 73.18,
+  "reusar": "04_buenas_noches_06"
+ },
+ {
+  "id": "04_buenas_noches_13",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 73.18,
+  "t1": 78.56,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Lia hugs Tomi and Pipo joins in, a heart of light glows above them, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "they hug, a glowing heart appears"
+ },
+ {
+  "id": "04_buenas_noches_14",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 78.56,
+  "t1": 84.54,
+  "refs": [
+   "tomi",
+   "lia"
+  ],
+  "escena": "Tomi switches off his moon-shaped lamp while Lia puts a finger to her lips 'shhh', a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "click, the lamp turns off; Lia says shhh"
+ },
+ {
+  "id": "04_buenas_noches_15",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 84.54,
+  "t1": 89.94,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "Tomi, Lia and Pipo sleep peacefully, the camera far away through the window showing the starry sky, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "camera slowly pulls back through the window"
+ },
+ {
+  "id": "04_buenas_noches_16",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 89.94,
+  "t1": 95.84,
+  "reusar": "04_buenas_noches_01"
+ },
+ {
+  "id": "04_buenas_noches_17",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 95.84,
+  "t1": 99.66,
+  "reusar": "04_buenas_noches_04"
+ },
+ {
+  "id": "04_buenas_noches_18",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 99.66,
+  "t1": 104.39,
+  "reusar": "04_buenas_noches_03"
+ },
+ {
+  "id": "04_buenas_noches_19",
+  "cancion": "04_buenas_noches_v2",
+  "t0": 104.39,
+  "t1": 105.024,
+  "refs": [],
+  "escena": "a shooting star crosses the night sky leaving a sparkle shaped like a portal, a cozy child bedroom whose ceiling opens to a soft lilac night sky with a smiling sleeping moon and glowing stars like fireflies, pastel lavender and warm gold light",
+  "movimiento": "a shooting star streaks across the sky"
+ }
+]
