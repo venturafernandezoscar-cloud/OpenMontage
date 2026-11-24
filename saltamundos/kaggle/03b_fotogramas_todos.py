@@ -164,8 +164,12 @@ PLANOS = json.loads(r"""[["00_desfile_00", [], "three colorful soap bubbles (min
 REHACER = ["00_desfile_00", "00_desfile_09", "01_verdurita_12"]
 SEMILLA_EXTRA = {}
 for n in REHACER:
+    marca = f"{OUT}/.rehecho_{n}"
+    if os.path.exists(marca):          # ya se rehízo en una ejecución anterior: no se vuelve a borrar
+        continue
     for f in glob.glob(f"{OUT}/{n}.png"):
         os.remove(f)
+    open(marca, "w").write(str(time.time()))
     SEMILLA_EXTRA[n] = 100 + int(time.time()) % 900
 
 # Los planos con los 3 personajes se hacen 2 veces (semillas 11 y 22): a veces el modelo duplica a alguien
