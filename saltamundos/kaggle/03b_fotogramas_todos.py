@@ -67,12 +67,13 @@ for k in ("tomi", "lia", "pipo"):
     lienzo.save(f"{COMFY}/input/ref_{k}.png")
 
 
-# ---------- 3. Dos servidores ComfyUI (uno por GPU) ----------
+# ---------- 3. Servidor(es) ComfyUI ----------
+# USAR_2_GPU = True es el doble de rápido, pero con 2 servidores la RAM de Kaggle (29 GB) se llenó y el
+# cuaderno se reinició. Con 1 servidor va seguro. Si un servidor se cae, se reinicia solo y se repite el plano.
+USAR_2_GPU = False
 import threading
-PUERTOS = [8188, 8189]
-srvs = [subprocess.Popen([sys.executable, "main.py", "--port", str(pt), "--cuda-device", str(i), "--disable-auto-launch",
-                          "--output-directory", f"/tmp/comfy_out{i}"], cwd=COMFY,
-                         stdout=open(f"/tmp/comfy{i}.log", "w"), stderr=subprocess.STDOUT) for i, pt in enumerate(PUERTOS)]
+PUERTOS = [8188, 8189] if USAR_2_GPU else [8188]
+srvs = [None] * len(PUERTOS)
 
 
 def api(pt, path, data=None):
@@ -81,14 +82,22 @@ def api(pt, path, data=None):
     return json.loads(urllib.request.urlopen(r, timeout=60).read())
 
 
-for i, pt in enumerate(PUERTOS):
+def arrancar(i):
+    if srvs[i] is not None and srvs[i].poll() is None:
+        srvs[i].kill(); srvs[i].wait()
+    srvs[i] = subprocess.Popen([sys.executable, "main.py", "--port", str(PUERTOS[i]), "--cuda-device", str(i),
+                                "--disable-auto-launch", "--output-directory", f"/tmp/comfy_out{i}"], cwd=COMFY,
+                               stdout=open(f"/tmp/comfy{i}.log", "w"), stderr=subprocess.STDOUT)
     for _ in range(200):
         try:
-            api(pt, "/system_stats"); break
+            api(PUERTOS[i], "/system_stats"); return
         except Exception:
             time.sleep(3)
-    else:
-        print(open(f"/tmp/comfy{i}.log").read()[-3000:]); raise SystemExit("ComfyUI no arranco")
+    print(open(f"/tmp/comfy{i}.log").read()[-3000:]); raise SystemExit("ComfyUI no arranco")
+
+
+for i in range(len(PUERTOS)):
+    arrancar(i)
 
 ESTILO = ("3D animated children's cartoon, premium feature-film CGI quality, soft global illumination, warm subsurface "
           "skin, big glossy expressive eyes, vibrant pastel-bright colors, cheerful cozy mood, 16:9 cinematic frame")
@@ -164,8 +173,15 @@ TRIOS = {p[0] for p in PLANOS if {"tomi", "lia", "pipo"} <= {r.split("_")[0] for
 trabajos = [(p[0], p[1], p[2], 11) for p in PLANOS] + [(p[0] + "__alt", p[1], p[2], 22) for p in PLANOS if p[0] in TRIOS]
 trabajos = [(n, r, e, SEMILLA_EXTRA.get(n, sd)) for n, r, e, sd in trabajos]
 pendientes = [t for t in trabajos if not os.path.exists(f"{OUT}/{t[0]}.png")]
-print(f"\n{len(trabajos)} imagenes en total ({len(PLANOS)} planos, {len(TRIOS)} con version extra), {len(pendientes)} pendientes. Generando con 2 GPU...")
+print(f"\n{len(trabajos)} imagenes en total ({len(PLANOS)} planos, {len(TRIOS)} con version extra), {len(pendientes)} pendientes. Generando con {len(PUERTOS)} GPU...")
 t0, hechos, fallos, lock = time.time(), [0], [], threading.Lock()
+
+
+def ram_libre():
+    try:
+        return int([l for l in open("/proc/meminfo") if l.startswith("MemAvailable")][0].split()[1]) / 1e6
+    except Exception:
+        return -1
 
 
 def trabajador(gpu):
@@ -173,17 +189,25 @@ def trabajador(gpu):
         with lock:
             if not pendientes: return
             nombre, refs, escena, seed = pendientes.pop(0)
-        try:
-            generar(gpu, refs, escena, seed, nombre)
+        for intento in range(3):
+            try:
+                generar(gpu, refs, escena, seed, nombre)
+                with lock:
+                    hechos[0] += 1
+                    print(f"OK {nombre}  [{hechos[0]} hechos, {(time.time()-t0)/60:.0f} min, RAM libre {ram_libre():.0f} GB]", flush=True)
+                break
+            except Exception as e:
+                caido = srvs[gpu].poll() is not None or "Connection refused" in str(e)
+                with lock:
+                    print(f"AVISO {nombre} (intento {intento+1}): {'servidor caido, reiniciando' if caido else str(e)[-300:]}", flush=True)
+                if caido:
+                    arrancar(gpu)
+        else:
             with lock:
-                hechos[0] += 1
-                print(f"OK {nombre}  [{hechos[0]} hechos, {(time.time()-t0)/60:.0f} min]", flush=True)
-        except Exception as e:
-            with lock:
-                fallos.append(nombre); print(f"FALLO {nombre}: {str(e)[-300:]}", flush=True)
+                fallos.append(nombre)
 
 
-hilos = [threading.Thread(target=trabajador, args=(g,)) for g in (0, 1)]
+hilos = [threading.Thread(target=trabajador, args=(g,)) for g in range(len(PUERTOS))]
 for h in hilos: h.start()
 for h in hilos: h.join()
 for s_ in srvs: s_.terminate()
