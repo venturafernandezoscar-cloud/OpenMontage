@@ -23,7 +23,9 @@ NOCHE = "a cozy child bedroom whose ceiling opens to a soft lilac night sky with
 
 
 def s(refs, escena, mov, mundo=None):
-    return {"refs": refs, "escena": escena + (f", {mundo}" if mundo else ""), "movimiento": mov}
+    # sin personajes de referencia, el modelo se inventaba niños desconocidos: se prohíbe expresamente
+    vacio = ", empty scene with no people, no children, no characters" if not refs else ""
+    return {"refs": refs, "escena": escena + vacio + (f", {mundo}" if mundo else ""), "movimiento": mov}
 
 
 # ---------------- DESFILE (instrumental, 45 s, tiempos fijos) ----------------
@@ -67,7 +69,7 @@ VERDURITA = [
      s([P], "the broccoli grows into a little tree and Pipo sits under it, low angle", "the broccoli grows into a tree above Pipo", HUERTO)],
     [s([L], "Lia opens a pea pod and three peas jump out, close-up of hands", "three peas pop out one by one", HUERTO)],
     [s([T, "tomi_caras"], "Tomi brings a broccoli floret to his mouth with a doubtful face, close-up", "Tomi hesitates, looking at the broccoli", HUERTO)],
-    [s([T, "tomi_caras"], "Tomi's eyes light up with delight and he claps asking for more, front view", "Tomi's eyes light up and he claps happily", HUERTO)],
+    [s([T, "tomi_caras"], "Tomi beams with a delighted happy smile and normal sparkling eyes and claps asking for more, front view", "Tomi's eyes light up and he claps happily", HUERTO)],
     [s([T, L, P], "Tomi, Lia and Pipo bounce on giant pumpkins like trampolines, wide shot", "they bounce up and down on pumpkins", GIRASOL)],   # estribillo 2
     [s([T, L], "Tomi and Lia run hand in hand through tall sunflowers, side tracking shot", "they run through the sunflowers, camera tracks sideways", GIRASOL)],
     [s([T], "Tomi jumps over a giant pumpkin toward the sun, low angle", "Tomi leaps over the pumpkin", GIRASOL)],
