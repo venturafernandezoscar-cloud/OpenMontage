@@ -1,5 +1,44 @@
 [
  {
+  "id": "00_intro_0",
+  "cancion": "jingle",
+  "t0": 0.0,
+  "t1": 1.3,
+  "variantes": 2,
+  "refs": [
+   "tomi",
+   "tomi_caras"
+  ],
+  "escena": "Tomi sits on a flower meadow inside a giant shiny soap bubble that is just about to pop, he giggles and looks straight at the camera, medium close-up, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "the bubble pops into sparkles and Tomi giggles and waves at the camera"
+ },
+ {
+  "id": "00_intro_1",
+  "cancion": "jingle",
+  "t0": 1.3,
+  "t1": 3.6,
+  "variantes": 2,
+  "refs": [
+   "pipo"
+  ],
+  "escena": "wide shot, static camera: big glossy inflated 3D balloon letters spelling exactly \"SALTAMUNDOS\" standing on the grass, syllables colored mint green \"SAL\", yellow \"TA\", coral \"MUN\", purple \"DOS\", thick white outline, toy-like and shiny; Pipo jumps happily on top of the letters, mid-air above the first letters, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Pipo hops from letter to letter from left to right, static camera"
+ },
+ {
+  "id": "00_intro_2",
+  "cancion": "jingle",
+  "t0": 3.6,
+  "t1": 5.0,
+  "variantes": 2,
+  "refs": [
+   "tomi",
+   "lia",
+   "pipo"
+  ],
+  "escena": "big glossy inflated 3D balloon letters spelling exactly \"SALTAMUNDOS\" standing on the grass, syllables colored mint green \"SAL\", yellow \"TA\", coral \"MUN\", purple \"DOS\", thick white outline, toy-like and shiny; Tomi and Lia peek out from behind the letters waving at the camera and Pipo sits on top of the letter O, sparkles in the air, a rolling meadow of colorful flowers at sunrise with floating soap bubbles, soft pastel sky",
+  "movimiento": "Tomi and Lia wave, Pipo wags his tail, slow push-in"
+ },
+ {
   "id": "00_desfile_00",
   "cancion": "05_desfile_v2",
   "t0": 0,

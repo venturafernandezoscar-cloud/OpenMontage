@@ -51,6 +51,16 @@ DESFILE = [  # (t0, t1, plano)
     (41, 45, s([T, L, P], "Tomi, Lia and Pipo run toward a giant iridescent soap-bubble portal opening in the meadow, wide shot from behind", "they run toward the swirling bubble portal, camera follows", PRADO)),
 ]
 
+# ---------------- INTRO DE MARCA (5 s, idéntica en todos los vídeos) ----------------
+# Las sílabas del logo se revelan en el montaje, sincronizadas con el jingle (no las anima la IA).
+LOGO = ('big glossy inflated 3D balloon letters spelling exactly "SALTAMUNDOS" standing on the grass, '
+        'syllables colored mint green "SAL", yellow "TA", coral "MUN", purple "DOS", thick white outline, toy-like and shiny')
+INTRO = [
+    (0.0, 1.3, s([T, "tomi_caras"], "Tomi sits on a flower meadow inside a giant shiny soap bubble that is just about to pop, he giggles and looks straight at the camera, medium close-up", "the bubble pops into sparkles and Tomi giggles and waves at the camera", PRADO)),
+    (1.3, 3.6, s([P], f"wide shot, static camera: {LOGO}; Pipo jumps happily on top of the letters, mid-air above the first letters", "Pipo hops from letter to letter from left to right, static camera", PRADO)),
+    (3.6, 5.0, s([T, L, P], f"{LOGO}; Tomi and Lia peek out from behind the letters waving at the camera and Pipo sits on top of the letter O, sparkles in the air", "Tomi and Lia wave, Pipo wags his tail, slow push-in", PRADO)),
+]
+
 # ---------------- CANCIONES: planos por línea (1 o 2 por línea) ----------------
 VERDURITA = [
     [s([T, L, P], "Tomi, Lia and Pipo land on a giant bouncy lettuce leaf and look around amazed, wide shot", "they bounce softly on the leaf and look around", HUERTO)],   # intro (antes de la 1ª línea)
@@ -165,8 +175,10 @@ CANCIONES = [("01_verdurita", "01_verdurita_v1", VERDURITA), ("02_burbujas", "02
 
 def construir():
     out = []
+    for k, (t0, t1, p) in enumerate(INTRO):
+        out.append({"id": f"00_intro_{k}", "cancion": "jingle", "t0": t0, "t1": t1, "variantes": 2, **p})
     for t0, t1, p in DESFILE:
-        out.append({"id": f"00_desfile_{len(out):02d}", "cancion": "05_desfile_v2", "t0": t0, "t1": t1, **p})
+        out.append({"id": f"00_desfile_{len(out)-len(INTRO):02d}", "cancion": "05_desfile_v2", "t0": t0, "t1": t1, **p})
     for cid, audio, guion in CANCIONES:
         al = json.load(open(f"{AQUI}/audio/canciones/{audio}.json"))
         dur = float(os.popen(f"ffprobe -v error -show_entries format=duration -of csv=p=0 {AQUI}/audio/canciones/{audio}.mp3").read())

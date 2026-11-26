@@ -52,19 +52,15 @@
 
 ---
 
-## 2. INTRO «Saltamundos» (5,00 s exactos · 300 fotogramas @60 fps)
+## 2. INTRO «Saltamundos» (5,00 s exactos · 300 fotogramas @60 fps) — v2 «Pipo salta las letras»
 
 | Tiempo | Imagen | Sonido |
 |---|---|---|
-| 0,00–0,50 | Fondo cielo turquesa→crema. Una burbuja gigante cae y **rebota** como cama elástica | "Boing" grave + xilófono Sol3 |
-| 0,50–1,50 | **Primer plano de Tomi** que aparece dentro de la burbuja, mira a cámara, abre ojos y **sonríe con mofletes inflados** | Risita de bebé |
-| 1,50–3,50 | Tomi salta 4 veces; en cada salto cae una sílaba del logo con rebote elástico y color propio: **SAL** (verde menta) **TA** (amarillo) **MUN** (coral) **DOS** (morado, la "O" es un planeta-burbuja) | Coro infantil cantando **«¡Sal-ta-mun-dos!»** en Sol-Do-Mi-**Sol↑** (melodía que "salta") |
-| 3,50–4,40 | Lía y Pipo asoman a los lados; el logo hace un último "squash & stretch"; destellos | Campanilla característica + ladrido afinado |
-| 4,40–5,00 | Tomi **guiña un ojo**; la "O" planeta crece y nos "traga" (transición) | "Fuuup" ascendente que termina en la tónica de la canción siguiente |
+| 0,0–1,3 s | Una burbuja gigante bota en el prado y revienta: aparece **Tomi riéndose** y saludando a cámara | "Boing" + xilófono subiendo |
+| 1,3–3,6 s | Plano general fijo: **Pipo entra saltando** y en cada salto aparece una sílaba **SAL · TA · MUN · DOS** en letras 3D tipo globo (menta, amarillo, coral, morado) | Una nota por salto (Sol-Do-Mi-Sol) |
+| 3,6–5,0 s | **Lía y Tomi se asoman** por detrás del logo y saludan; Pipo sentado sobre la "O"; destellos | Campanilla + "fuuup" |
 
-Se renderiza **una sola vez** y se reutiliza en todos los vídeos. Versión corta de 2 s (solo el "¡Sal-ta-mun-dos!") para los saltos entre canciones.
-
----
+Producción: fotogramas `00_intro_0/1/2` (Qwen-Image-Edit con las hojas), animados con Wan 2.2; las sílabas se revelan en el montaje con máscaras exactamente en cada nota del jingle (`audio/jingle.py`). Se renderiza una vez y se reutiliza en todos los vídeos.
 
 ## 3. DESFILE SIN PALABRAS (0:05–0:50)
 
