@@ -117,3 +117,5 @@ pytest-of-*/
 # GFPGAN/facexlib download face-detection weights to ./gfpgan/weights at runtime
 gfpgan/
 saltamundos/intro/salida/*.mov
+saltamundos/salida/
+saltamundos/montaje/_silencio.wav

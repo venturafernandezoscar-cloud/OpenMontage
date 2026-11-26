@@ -1,0 +1,3551 @@
+{
+ "fps": 30,
+ "output": "../salida/episodio01_animatic.mp4",
+ "music": "_silencio.wav",
+ "sfx": [
+  {
+   "file": "../audio/jingle_saltamundos.wav",
+   "t": 0.0,
+   "gain": 0
+  },
+  {
+   "file": "../audio/canciones/05_desfile_v2.mp3",
+   "t": 5.0,
+   "gain": 0
+  },
+  {
+   "file": "../audio/jingle_saltamundos.wav",
+   "t": 50.0,
+   "gain": -3
+  },
+  {
+   "file": "../audio/canciones/01_verdurita_v1.mp3",
+   "t": 55.0,
+   "gain": 0
+  },
+  {
+   "file": "../audio/jingle_saltamundos.wav",
+   "t": 185.032,
+   "gain": -3
+  },
+  {
+   "file": "../audio/canciones/02_burbujas_v2.mp3",
+   "t": 190.032,
+   "gain": 0
+  },
+  {
+   "file": "../audio/jingle_saltamundos.wav",
+   "t": 295.05600000000004,
+   "gain": -3
+  },
+  {
+   "file": "../audio/canciones/03_cepillo_v3.mp3",
+   "t": 300.05600000000004,
+   "gain": 0
+  },
+  {
+   "file": "../audio/jingle_saltamundos.wav",
+   "t": 420.08000000000004,
+   "gain": -3
+  },
+  {
+   "file": "../audio/canciones/04_buenas_noches_v2.mp3",
+   "t": 425.08000000000004,
+   "gain": 0
+  },
+  {
+   "file": "../audio/canciones/01_verdurita_v1.mp3",
+   "t": 530.104,
+   "gain": 0,
+   "desde": 95.18
+  },
+  {
+   "file": "../audio/jingle_saltamundos.wav",
+   "t": 565.456,
+   "gain": -2
+  }
+ ],
+ "clips": [
+  {
+   "file": "../fotogramas_jpg/00_desfile_01.jpg",
+   "duration": 1.3
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_13.jpg",
+   "duration": 2.3
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_15.jpg",
+   "duration": 1.4
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_00.jpg",
+   "duration": 2,
+   "overlays": [
+    {
+     "file": "../../../saltamundos/fisicas/salida/burbujas_intro.mov",
+     "t": 0.0
+    }
+   ]
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_01.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_02.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_03.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_04.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_05.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_06.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_07.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_08.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_09.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_10.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_11.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_12.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_13.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_14.jpg",
+   "duration": 2
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_15.jpg",
+   "duration": 4
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_16.jpg",
+   "duration": 4
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_17.jpg",
+   "duration": 3
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_18.jpg",
+   "duration": 4
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_18.jpg",
+   "duration": 5.0,
+   "fade_out": 0.5
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_00.jpg",
+   "duration": 7.84
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_01a.jpg",
+   "duration": 1.79
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_01b.jpg",
+   "duration": 1.79
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_02.jpg",
+   "duration": 4.3
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_03a.jpg",
+   "duration": 1.8
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_03b.jpg",
+   "duration": 1.8
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_04.jpg",
+   "duration": 3.86
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_05.jpg",
+   "duration": 4.1
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_06a.jpg",
+   "duration": 2.07
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_06b.jpg",
+   "duration": 2.07
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_07.jpg",
+   "duration": 3.88
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_08.jpg",
+   "duration": 6.18
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_09a.jpg",
+   "duration": 2.0
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_09b.jpg",
+   "duration": 2.0
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_10.jpg",
+   "duration": 4.51
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_11.jpg",
+   "duration": 3.31
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_12.jpg",
+   "duration": 4.02
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_13.jpg",
+   "duration": 3.94
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_14.jpg",
+   "duration": 4.2
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_15.jpg",
+   "duration": 3.82
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_16.jpg",
+   "duration": 6.16
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_17a.jpg",
+   "duration": 2.14
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_17b.jpg",
+   "duration": 2.14
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_18a.jpg",
+   "duration": 1.92
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_18b.jpg",
+   "duration": 1.92
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_19a.jpg",
+   "duration": 2.07
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_19b.jpg",
+   "duration": 2.07,
+   "overlays": [
+    {
+     "file": "../../../saltamundos/fisicas/salida/plato_arcoiris.mov",
+     "t": 0.0
+    }
+   ]
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_20.jpg",
+   "duration": 3.8
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_21.jpg",
+   "duration": 3.98
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_05.jpg",
+   "duration": 3.76
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_07.jpg",
+   "duration": 4.18
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_13.jpg",
+   "duration": 3.88
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_08.jpg",
+   "duration": 5.1
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_26.jpg",
+   "duration": 17.632
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_23.jpg",
+   "duration": 5.0,
+   "fade_out": 0.5
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_00.jpg",
+   "duration": 4.96
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_01a.jpg",
+   "duration": 1.67
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_01b.jpg",
+   "duration": 1.67
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_02a.jpg",
+   "duration": 2.08
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_02b.jpg",
+   "duration": 2.08
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_03a.jpg",
+   "duration": 1.97
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_03b.jpg",
+   "duration": 1.97
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_04.jpg",
+   "duration": 5.08
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_05a.jpg",
+   "duration": 1.95
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_05b.jpg",
+   "duration": 1.95
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_06a.jpg",
+   "duration": 1.725
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_06b.jpg",
+   "duration": 1.725
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_07a.jpg",
+   "duration": 2.325
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_07b.jpg",
+   "duration": 2.325
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_08.jpg",
+   "duration": 5.67
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_09.jpg",
+   "duration": 5.15
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_10.jpg",
+   "duration": 4.02
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_11.jpg",
+   "duration": 2.48
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_12.jpg",
+   "duration": 6.24
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_13.jpg",
+   "duration": 3.2
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_14.jpg",
+   "duration": 4.02
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_15.jpg",
+   "duration": 4.12
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_16.jpg",
+   "duration": 4.12
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_17.jpg",
+   "duration": 6.0,
+   "overlays": [
+    {
+     "file": "../../../saltamundos/fisicas/salida/patitos.mov",
+     "t": 0.0
+    }
+   ]
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_06a.jpg",
+   "duration": 3.74
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_08.jpg",
+   "duration": 4.64
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_05a.jpg",
+   "duration": 3.5
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_07a.jpg",
+   "duration": 4.1
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_22.jpg",
+   "duration": 4.18
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_23.jpg",
+   "duration": 6.364
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_24.jpg",
+   "duration": 5.0,
+   "fade_out": 0.5
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_00.jpg",
+   "duration": 8.5
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_01.jpg",
+   "duration": 3.66
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_02.jpg",
+   "duration": 3.94
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_03.jpg",
+   "duration": 3.56
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_04.jpg",
+   "duration": 5.12
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_05.jpg",
+   "duration": 3.54
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_06.jpg",
+   "duration": 4.12
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_07.jpg",
+   "duration": 3.72
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_08.jpg",
+   "duration": 3.86
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_09.jpg",
+   "duration": 4.28
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_10.jpg",
+   "duration": 4.0
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_11.jpg",
+   "duration": 4.06
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_12.jpg",
+   "duration": 5.22
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_13.jpg",
+   "duration": 3.6
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_14.jpg",
+   "duration": 3.8
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_15.jpg",
+   "duration": 3.72
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_16.jpg",
+   "duration": 4.48
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_17.jpg",
+   "duration": 3.56
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_18.jpg",
+   "duration": 3.92
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_19.jpg",
+   "duration": 4.54
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_05.jpg",
+   "duration": 4.68
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_06.jpg",
+   "duration": 4.3
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_07.jpg",
+   "duration": 2.98
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_08.jpg",
+   "duration": 4.2
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_24.jpg",
+   "duration": 18.664
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_19.jpg",
+   "duration": 5.0,
+   "fade_out": 0.5
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_00.jpg",
+   "duration": 4.54
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_01.jpg",
+   "duration": 6.7
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_02.jpg",
+   "duration": 7.6
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_03.jpg",
+   "duration": 5.12
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_04.jpg",
+   "duration": 5.18
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_05.jpg",
+   "duration": 4.52
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_06.jpg",
+   "duration": 6.767
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_07.jpg",
+   "duration": 5.373
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_08.jpg",
+   "duration": 6.0
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_03.jpg",
+   "duration": 5.08
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_04.jpg",
+   "duration": 5.92
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_05.jpg",
+   "duration": 3.86
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_06.jpg",
+   "duration": 6.52
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_13.jpg",
+   "duration": 5.38
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_14.jpg",
+   "duration": 5.98
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_15.jpg",
+   "duration": 5.4
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_01.jpg",
+   "duration": 5.9
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_04.jpg",
+   "duration": 3.82
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_03.jpg",
+   "duration": 4.73
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_19.jpg",
+   "duration": 0.634
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_05.jpg",
+   "duration": 3.485
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_08.jpg",
+   "duration": 3.485
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_12.jpg",
+   "duration": 3.485
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_13.jpg",
+   "duration": 3.485
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_13.jpg",
+   "duration": 3.485
+  },
+  {
+   "file": "../fotogramas_jpg/02_burbujas_13.jpg",
+   "duration": 3.485
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_07.jpg",
+   "duration": 3.485
+  },
+  {
+   "file": "../fotogramas_jpg/00_desfile_15.jpg",
+   "duration": 3.485
+  },
+  {
+   "file": "../fotogramas_jpg/03_cepillo_16.jpg",
+   "duration": 3.485
+  },
+  {
+   "file": "../fotogramas_jpg/01_verdurita_26.jpg",
+   "duration": 3.485
+  },
+  {
+   "file": "../fotogramas_jpg/04_buenas_noches_06.jpg",
+   "duration": 20.0,
+   "fade_out": 1.5
+  }
+ ],
+ "lyrics": [
+  {
+   "start": 62.84,
+   "words": [
+    [
+     "Tomi",
+     0.6600000000000001
+    ],
+    [
+     "tiene",
+     0.41999999999999993
+    ],
+    [
+     "hambre,",
+     1.1400000000000006
+    ],
+    [
+     "ñam,",
+     0.5599999999999987
+    ],
+    [
+     "ñam,",
+     0.41999999999999993
+    ],
+    [
+     "ñam",
+     0.3800000000000008
+    ]
+   ],
+   "end": 66.77
+  },
+  {
+   "start": 66.42,
+   "words": [
+    [
+     "Ve",
+     0.7599999999999998
+    ],
+    [
+     "una",
+     0.3000000000000007
+    ],
+    [
+     "piruleta,",
+     1.7199999999999989
+    ],
+    [
+     "¿y",
+     0.08000000000000007
+    ],
+    [
+     "la",
+     0.20000000000000107
+    ],
+    [
+     "va",
+     0.21999999999999886
+    ],
+    [
+     "a",
+     0.20000000000000107
+    ],
+    [
+     "tomar?",
+     0.5199999999999996
+    ]
+   ],
+   "end": 70.77
+  },
+  {
+   "start": 70.72,
+   "words": [
+    [
+     "Lía",
+     0.5999999999999996
+    ],
+    [
+     "trae",
+     0.23999999999999844
+    ],
+    [
+     "zanahoria,",
+     1.5199999999999996
+    ],
+    [
+     "crunch,",
+     0.5
+    ],
+    [
+     "crunch,",
+     0.4800000000000004
+    ],
+    [
+     "crunch",
+     0.26000000000000156
+    ]
+   ],
+   "end": 74.67
+  },
+  {
+   "start": 74.32,
+   "words": [
+    [
+     "Naranja",
+     1.1600000000000001
+    ],
+    [
+     "y",
+     0.28000000000000114
+    ],
+    [
+     "crujiente,",
+     1.0799999999999983
+    ],
+    [
+     "¡qué",
+     0.14000000000000057
+    ],
+    [
+     "rica",
+     0.6999999999999993
+    ],
+    [
+     "está!",
+     0.5
+    ]
+   ],
+   "end": 78.53
+  },
+  {
+   "start": 78.18,
+   "words": [
+    [
+     "¡Verdurita,",
+     1.5
+    ],
+    [
+     "sí!",
+     0.9800000000000004
+    ],
+    [
+     "¡Verdurita,",
+     1.0599999999999987
+    ],
+    [
+     "sí!",
+     0.5600000000000023
+    ]
+   ],
+   "end": 82.63
+  },
+  {
+   "start": 82.28,
+   "words": [
+    [
+     "Me",
+     0.879999999999999
+    ],
+    [
+     "hace",
+     0.5399999999999991
+    ],
+    [
+     "fuerte,",
+     1.1799999999999997
+    ],
+    [
+     "me",
+     0.14000000000000057
+    ],
+    [
+     "hace",
+     0.4400000000000013
+    ],
+    [
+     "feliz",
+     0.9600000000000009
+    ]
+   ],
+   "end": 86.77
+  },
+  {
+   "start": 86.42,
+   "words": [
+    [
+     "Brócoli,",
+     1.4399999999999977
+    ],
+    [
+     "guisantes,",
+     1.2999999999999972
+    ],
+    [
+     "¡salto",
+     0.3400000000000034
+    ],
+    [
+     "hasta",
+     0.38000000000000256
+    ],
+    [
+     "el",
+     0.17999999999999972
+    ],
+    [
+     "sol!",
+     0.23999999999999488
+    ]
+   ],
+   "end": 90.65
+  },
+  {
+   "start": 90.3,
+   "words": [
+    [
+     "¡Verdurita,",
+     1.3800000000000026
+    ],
+    [
+     "sí!",
+     1.2199999999999989
+    ],
+    [
+     "¡Con",
+     0.08
+    ],
+    [
+     "todo",
+     0.46000000000000085
+    ],
+    [
+     "mi",
+     0.35999999999999943
+    ],
+    [
+     "corazón!",
+     1.5
+    ]
+   ],
+   "end": 95.65
+  },
+  {
+   "start": 96.48,
+   "words": [
+    [
+     "Pipo",
+     1.220000000000006
+    ],
+    [
+     "encuentra",
+     0.23999999999999488
+    ],
+    [
+     "un",
+     0.14000000000000057
+    ],
+    [
+     "brócoli,",
+     0.8599999999999994
+    ],
+    [
+     "¡un",
+     0.1600000000000037
+    ],
+    [
+     "arbolito",
+     0.8799999999999955
+    ],
+    [
+     "es!",
+     0.5
+    ]
+   ],
+   "end": 100.83
+  },
+  {
+   "start": 100.48,
+   "words": [
+    [
+     "Lía",
+     0.8600000000000065
+    ],
+    [
+     "come",
+     0.29999999999999716
+    ],
+    [
+     "guisantes,",
+     1.5399999999999991
+    ],
+    [
+     "¡uno,",
+     0.3999999999999986
+    ],
+    [
+     "dos",
+     0.1600000000000037
+    ],
+    [
+     "y",
+     0.259999999999998
+    ],
+    [
+     "tres!",
+     0.46000000000000085
+    ]
+   ],
+   "end": 104.81
+  },
+  {
+   "start": 104.99,
+   "words": [
+    [
+     "Tomi",
+     0.5300000000000011
+    ],
+    [
+     "prueba",
+     0.21999999999999886
+    ],
+    [
+     "un",
+     0.1599999999999966
+    ],
+    [
+     "trocito,",
+     0.6799999999999997
+    ],
+    [
+     "¿le",
+     0.4200000000000017
+    ],
+    [
+     "gustará?",
+     1.2999999999999972
+    ]
+   ],
+   "end": 108.65
+  },
+  {
+   "start": 108.3,
+   "words": [
+    [
+     "Mmm...",
+     2.6400000000000006
+    ],
+    [
+     "¡otra",
+     0.5399999999999991
+    ],
+    [
+     "vez!",
+     0.8400000000000034
+    ]
+   ],
+   "end": 112.67
+  },
+  {
+   "start": 112.32,
+   "words": [
+    [
+     "¡Verdurita,",
+     1.3599999999999994
+    ],
+    [
+     "sí!",
+     0.8800000000000026
+    ],
+    [
+     "¡Verdurita,",
+     1.0799999999999983
+    ],
+    [
+     "sí!",
+     0.6199999999999974
+    ]
+   ],
+   "end": 116.61
+  },
+  {
+   "start": 116.26,
+   "words": [
+    [
+     "Me",
+     0.8999999999999986
+    ],
+    [
+     "hace",
+     0.5200000000000031
+    ],
+    [
+     "fuerte,",
+     0.8999999999999986
+    ],
+    [
+     "me",
+     0.4399999999999977
+    ],
+    [
+     "hace",
+     0.4399999999999977
+    ],
+    [
+     "feliz",
+     1.0
+    ]
+   ],
+   "end": 120.81
+  },
+  {
+   "start": 120.46,
+   "words": [
+    [
+     "Brócoli,",
+     1.960000000000008
+    ],
+    [
+     "guisantes,",
+     0.6400000000000006
+    ],
+    [
+     "¡salto",
+     0.4399999999999977
+    ],
+    [
+     "hasta",
+     0.37999999999999545
+    ],
+    [
+     "el",
+     0.18000000000000682
+    ],
+    [
+     "sol!",
+     0.21999999999999886
+    ]
+   ],
+   "end": 124.63
+  },
+  {
+   "start": 124.28,
+   "words": [
+    [
+     "¡Verdurita,",
+     1.4399999999999977
+    ],
+    [
+     "sí!",
+     1.1800000000000068
+    ],
+    [
+     "¡Con",
+     0.09999999999999432
+    ],
+    [
+     "todo",
+     0.4399999999999977
+    ],
+    [
+     "mi",
+     0.37999999999999545
+    ],
+    [
+     "corazón!",
+     1.3000000000000114
+    ]
+   ],
+   "end": 129.47
+  },
+  {
+   "start": 130.44,
+   "words": [
+    [
+     "Rojo,",
+     1.0799999999999983
+    ],
+    [
+     "el",
+     0.29999999999999716
+    ],
+    [
+     "tomate,",
+     0.8400000000000034
+    ],
+    [
+     "naranja,",
+     0.7999999999999972
+    ],
+    [
+     "la",
+     0.20000000000000284
+    ],
+    [
+     "zanahoria",
+     1.0600000000000023
+    ]
+   ],
+   "end": 135.07
+  },
+  {
+   "start": 134.72,
+   "words": [
+    [
+     "Verde,",
+     0.7199999999999989
+    ],
+    [
+     "el",
+     0.12000000000000455
+    ],
+    [
+     "brócoli,",
+     1.3799999999999955
+    ],
+    [
+     "morada,",
+     0.35999999999999943
+    ],
+    [
+     "la",
+     0.21999999999999886
+    ],
+    [
+     "berenjena",
+     1.0400000000000063
+    ]
+   ],
+   "end": 138.91
+  },
+  {
+   "start": 138.56,
+   "words": [
+    [
+     "Amarillo,",
+     0.9399999999999977
+    ],
+    [
+     "el",
+     0.3199999999999932
+    ],
+    [
+     "maíz,",
+     0.5600000000000023
+    ],
+    [
+     "¡un",
+     0.710000000000008
+    ],
+    [
+     "arcoíris",
+     0.46999999999999886
+    ],
+    [
+     "en",
+     0.28000000000000114
+    ],
+    [
+     "mi",
+     0.20000000000000284
+    ],
+    [
+     "plato!",
+     0.6599999999999966
+    ]
+   ],
+   "end": 143.05
+  },
+  {
+   "start": 142.7,
+   "words": [
+    [
+     "¿Y",
+     0.6400000000000006
+    ],
+    [
+     "los",
+     0.1799999999999926
+    ],
+    [
+     "caramelos?",
+     0.980000000000004
+    ],
+    [
+     "¡Un",
+     0.3199999999999932
+    ],
+    [
+     "poquito",
+     0.5800000000000125
+    ],
+    [
+     "nada",
+     0.4199999999999875
+    ],
+    [
+     "más!",
+     0.6800000000000068
+    ]
+   ],
+   "end": 146.85
+  },
+  {
+   "start": 146.5,
+   "words": [
+    [
+     "¡De",
+     0.5400000000000063
+    ],
+    [
+     "vez",
+     0.5
+    ],
+    [
+     "en",
+     0.29999999999999716
+    ],
+    [
+     "cuando,",
+     1.0600000000000023
+    ],
+    [
+     "y",
+     0.23999999999999488
+    ],
+    [
+     "a",
+     0.3400000000000034
+    ],
+    [
+     "saltar!",
+     1.0
+    ]
+   ],
+   "end": 150.83
+  },
+  {
+   "start": 150.48,
+   "words": [
+    [
+     "¡Verdurita,",
+     1.2000000000000028
+    ],
+    [
+     "sí!",
+     0.8599999999999994
+    ],
+    [
+     "¡Verdurita,",
+     1.1599999999999966
+    ],
+    [
+     "sí!",
+     0.539999999999992
+    ]
+   ],
+   "end": 154.59
+  },
+  {
+   "start": 154.24,
+   "words": [
+    [
+     "Me",
+     0.9200000000000017
+    ],
+    [
+     "hace",
+     0.5799999999999983
+    ],
+    [
+     "fuerte,",
+     1.1600000000000108
+    ],
+    [
+     "me",
+     0.14000000000000057
+    ],
+    [
+     "hace",
+     0.4199999999999875
+    ],
+    [
+     "feliz",
+     0.960000000000008
+    ]
+   ],
+   "end": 158.77
+  },
+  {
+   "start": 158.42,
+   "words": [
+    [
+     "Brócoli,",
+     1.9899999999999949
+    ],
+    [
+     "guisantes,",
+     0.6500000000000057
+    ],
+    [
+     "¡salto",
+     0.45999999999999375
+    ],
+    [
+     "hasta",
+     0.35999999999999943
+    ],
+    [
+     "el",
+     0.18000000000000682
+    ],
+    [
+     "sol!",
+     0.23999999999999488
+    ]
+   ],
+   "end": 162.65
+  },
+  {
+   "start": 162.3,
+   "words": [
+    [
+     "¡Verdurita,",
+     1.8800000000000097
+    ],
+    [
+     "sí!",
+     0.45999999999999375
+    ],
+    [
+     "¡Con",
+     0.35999999999999943
+    ],
+    [
+     "todo",
+     0.45999999999999375
+    ],
+    [
+     "mi",
+     0.35999999999999943
+    ],
+    [
+     "corazón!",
+     1.2800000000000011
+    ]
+   ],
+   "end": 167.45
+  },
+  {
+   "start": 194.992,
+   "words": [
+    [
+     "Tomi",
+     0.6399999999999997
+    ],
+    [
+     "va",
+     0.1800000000000006
+    ],
+    [
+     "al",
+     0.3199999999999994
+    ],
+    [
+     "baño,",
+     0.8600000000000003
+    ],
+    [
+     "chap,",
+     0.7000000000000002
+    ],
+    [
+     "chap,",
+     0.35999999999999943
+    ],
+    [
+     "chap",
+     0.28000000000000114
+    ]
+   ],
+   "end": 198.682
+  },
+  {
+   "start": 198.332,
+   "words": [
+    [
+     "Lía",
+     1.2399999999999984
+    ],
+    [
+     "abre",
+     0.4800000000000004
+    ],
+    [
+     "el",
+     0.2400000000000002
+    ],
+    [
+     "agua,",
+     0.8000000000000007
+    ],
+    [
+     "splash,",
+     0.5800000000000001
+    ],
+    [
+     "splash,",
+     0.5
+    ],
+    [
+     "splash",
+     0.3200000000000003
+    ]
+   ],
+   "end": 202.842
+  },
+  {
+   "start": 202.492,
+   "words": [
+    [
+     "Pipo",
+     1.1199999999999992
+    ],
+    [
+     "trae",
+     0.3800000000000008
+    ],
+    [
+     "el",
+     0.1999999999999993
+    ],
+    [
+     "pato,",
+     1.0199999999999996
+    ],
+    [
+     "cuac,",
+     0.41999999999999993
+    ],
+    [
+     "cuac,",
+     0.5200000000000014
+    ],
+    [
+     "cuac",
+     0.2799999999999976
+    ]
+   ],
+   "end": 206.782
+  },
+  {
+   "start": 206.432,
+   "words": [
+    [
+     "¡La",
+     0.38000000000000256
+    ],
+    [
+     "bañera",
+     0.9199999999999982
+    ],
+    [
+     "está",
+     0.28000000000000114
+    ],
+    [
+     "lista",
+     0.6999999999999993
+    ],
+    [
+     "ya!",
+     0.6000000000000014
+    ]
+   ],
+   "end": 209.662
+  },
+  {
+   "start": 211.512,
+   "words": [
+    [
+     "Burbujas,",
+     0.7199999999999989
+    ],
+    [
+     "burbujas,",
+     0.8200000000000003
+    ],
+    [
+     "suben",
+     0.6600000000000001
+    ],
+    [
+     "al",
+     0.21999999999999886
+    ],
+    [
+     "sol",
+     0.33999999999999986
+    ]
+   ],
+   "end": 214.622
+  },
+  {
+   "start": 215.412,
+   "words": [
+    [
+     "Burbujas,",
+     0.7200000000000024
+    ],
+    [
+     "burbujas,",
+     0.8999999999999986
+    ],
+    [
+     "de",
+     0.08
+    ],
+    [
+     "todo",
+     0.4400000000000013
+    ],
+    [
+     "color",
+     0.6799999999999997
+    ]
+   ],
+   "end": 218.562
+  },
+  {
+   "start": 218.862,
+   "words": [
+    [
+     "¡Pop!",
+     0.6500000000000021
+    ],
+    [
+     "en",
+     0.16000000000000014
+    ],
+    [
+     "la",
+     0.1999999999999993
+    ],
+    [
+     "nariz,",
+     1.2899999999999991
+    ],
+    [
+     "¡pop!",
+     0.5700000000000003
+    ],
+    [
+     "en",
+     0.14000000000000057
+    ],
+    [
+     "los",
+     0.23999999999999844
+    ],
+    [
+     "pies",
+     0.30000000000000426
+    ]
+   ],
+   "end": 222.762
+  },
+  {
+   "start": 223.512,
+   "words": [
+    [
+     "¡Burbujas,",
+     0.720000000000006
+    ],
+    [
+     "burbujas,",
+     0.9399999999999977
+    ],
+    [
+     "una,",
+     0.5399999999999991
+    ],
+    [
+     "dos",
+     0.1600000000000037
+    ],
+    [
+     "y",
+     0.23999999999999488
+    ],
+    [
+     "tres!",
+     0.3999999999999986
+    ]
+   ],
+   "end": 226.862
+  },
+  {
+   "start": 229.182,
+   "words": [
+    [
+     "Tomi",
+     2.6700000000000017
+    ],
+    [
+     "se",
+     0.21999999999999886
+    ],
+    [
+     "lava",
+     0.4399999999999977
+    ],
+    [
+     "la",
+     0.3400000000000034
+    ],
+    [
+     "carita",
+     1.2000000000000028
+    ],
+    [
+     "así",
+     0.25
+    ]
+   ],
+   "end": 234.652
+  },
+  {
+   "start": 234.332,
+   "words": [
+    [
+     "Lía",
+     1.240000000000002
+    ],
+    [
+     "le",
+     0.240000000000002
+    ],
+    [
+     "lava",
+     0.6799999999999997
+    ],
+    [
+     "el",
+     0.3999999999999986
+    ],
+    [
+     "pelito,",
+     0.8599999999999994
+    ],
+    [
+     "ji,",
+     0.20000000000000284
+    ],
+    [
+     "ji,",
+     0.19999999999999574
+    ],
+    [
+     "ji",
+     0.25
+    ]
+   ],
+   "end": 238.752
+  },
+  {
+   "start": 238.352,
+   "words": [
+    [
+     "Pipo",
+     1.2999999999999972
+    ],
+    [
+     "se",
+     0.1600000000000037
+    ],
+    [
+     "sacude,",
+     1.019999999999996
+    ],
+    [
+     "shh,",
+     0.08
+    ],
+    [
+     "shh,",
+     0.08
+    ],
+    [
+     "shh",
+     0.25
+    ]
+   ],
+   "end": 241.432
+  },
+  {
+   "start": 240.832,
+   "words": [
+    [
+     "¡Y",
+     0.720000000000006
+    ],
+    [
+     "todos",
+     2.1799999999999997
+    ],
+    [
+     "mojados,",
+     1.7349999999999994
+    ],
+    [
+     "ja,",
+     0.5349999999999966
+    ],
+    [
+     "ja,",
+     0.5350000000000037
+    ],
+    [
+     "ja!",
+     0.25
+    ]
+   ],
+   "end": 247.137
+  },
+  {
+   "start": 247.072,
+   "words": [
+    [
+     "Burbujas,",
+     0.9399999999999977
+    ],
+    [
+     "burbujas,",
+     0.9400000000000048
+    ],
+    [
+     "suben",
+     0.759999999999998
+    ],
+    [
+     "al",
+     0.20000000000000284
+    ],
+    [
+     "sol",
+     0.35999999999999943
+    ]
+   ],
+   "end": 250.622
+  },
+  {
+   "start": 250.272,
+   "words": [
+    [
+     "Burbujas,",
+     1.7199999999999989
+    ],
+    [
+     "burbujas,",
+     0.8800000000000026
+    ],
+    [
+     "de",
+     0.19999999999999574
+    ],
+    [
+     "todo",
+     0.4399999999999977
+    ],
+    [
+     "color",
+     0.7800000000000082
+    ]
+   ],
+   "end": 254.642
+  },
+  {
+   "start": 254.292,
+   "words": [
+    [
+     "¡Pop!",
+     0.08
+    ],
+    [
+     "en",
+     1.0999999999999943
+    ],
+    [
+     "la",
+     0.45999999999999375
+    ],
+    [
+     "nariz,",
+     0.7600000000000051
+    ],
+    [
+     "¡pop!",
+     0.08
+    ],
+    [
+     "en",
+     0.9000000000000057
+    ],
+    [
+     "los",
+     0.5799999999999983
+    ],
+    [
+     "pies",
+     0.3199999999999932
+    ]
+   ],
+   "end": 258.762
+  },
+  {
+   "start": 258.412,
+   "words": [
+    [
+     "¡Burbujas,",
+     1.6000000000000085
+    ],
+    [
+     "burbujas,",
+     0.9399999999999977
+    ],
+    [
+     "una,",
+     0.7399999999999949
+    ],
+    [
+     "dos",
+     0.1599999999999966
+    ],
+    [
+     "y",
+     0.28000000000000114
+    ],
+    [
+     "tres!",
+     0.4000000000000057
+    ]
+   ],
+   "end": 262.882
+  },
+  {
+   "start": 262.532,
+   "words": [
+    [
+     "¡Patitos",
+     1.1400000000000006
+    ],
+    [
+     "al",
+     0.45999999999999375
+    ],
+    [
+     "agua!",
+     0.480000000000004
+    ],
+    [
+     "Uno,",
+     1.0600000000000023
+    ],
+    [
+     "dos,",
+     0.5600000000000023
+    ],
+    [
+     "tres,",
+     0.45999999999999375
+    ],
+    [
+     "cuatro...",
+     0.4000000000000057
+    ],
+    [
+     "¡y",
+     0.9399999999999977
+    ],
+    [
+     "cinco!",
+     0.5
+    ]
+   ],
+   "end": 268.882
+  },
+  {
+   "start": 268.532,
+   "words": [
+    [
+     "Burbujas,",
+     1.480000000000004
+    ],
+    [
+     "burbujas,",
+     0.9399999999999977
+    ],
+    [
+     "suben",
+     0.7600000000000051
+    ],
+    [
+     "al",
+     0.19999999999998863
+    ],
+    [
+     "sol",
+     0.35999999999999943
+    ]
+   ],
+   "end": 272.622
+  },
+  {
+   "start": 272.272,
+   "words": [
+    [
+     "Burbujas,",
+     1.7199999999999989
+    ],
+    [
+     "burbujas,",
+     0.8800000000000097
+    ],
+    [
+     "de",
+     0.20000000000000284
+    ],
+    [
+     "todo",
+     0.4399999999999977
+    ],
+    [
+     "color",
+     0.7800000000000011
+    ]
+   ],
+   "end": 276.642
+  },
+  {
+   "start": 276.912,
+   "words": [
+    [
+     "¡Pop!",
+     0.6200000000000045
+    ],
+    [
+     "en",
+     0.14000000000000057
+    ],
+    [
+     "la",
+     0.1599999999999966
+    ],
+    [
+     "nariz,",
+     1.25
+    ],
+    [
+     "¡pop!",
+     0.5100000000000051
+    ],
+    [
+     "en",
+     0.28000000000000114
+    ],
+    [
+     "los",
+     0.23999999999999488
+    ],
+    [
+     "pies",
+     0.29999999999999716
+    ]
+   ],
+   "end": 280.762
+  },
+  {
+   "start": 280.412,
+   "words": [
+    [
+     "¡Burbujas,",
+     1.6000000000000085
+    ],
+    [
+     "burbujas,",
+     0.9200000000000017
+    ],
+    [
+     "una,",
+     0.7999999999999972
+    ],
+    [
+     "dos",
+     0.11999999999999034
+    ],
+    [
+     "y",
+     0.2400000000000091
+    ],
+    [
+     "tres!",
+     0.4200000000000017
+    ]
+   ],
+   "end": 284.862
+  },
+  {
+   "start": 284.512,
+   "words": [
+    [
+     "Ya",
+     1.0999999999999943
+    ],
+    [
+     "estamos",
+     0.4200000000000017
+    ],
+    [
+     "limpios,",
+     0.8400000000000034
+    ],
+    [
+     "¡adiós,",
+     0.9599999999999937
+    ],
+    [
+     "a",
+     0.18000000000000682
+    ],
+    [
+     "dormir!",
+     0.37999999999999545
+    ]
+   ],
+   "end": 288.742
+  },
+  {
+   "start": 308.556,
+   "words": [
+    [
+     "Tomi",
+     0.7599999999999998
+    ],
+    [
+     "comió",
+     0.4399999999999995
+    ],
+    [
+     "un",
+     0.20000000000000107
+    ],
+    [
+     "dulce,",
+     0.7599999999999998
+    ],
+    [
+     "¡qué",
+     0.08000000000000007
+    ],
+    [
+     "rico",
+     0.4599999999999991
+    ],
+    [
+     "fue!",
+     0.3600000000000012
+    ]
+   ],
+   "end": 311.966
+  },
+  {
+   "start": 312.216,
+   "words": [
+    [
+     "Pero",
+     0.7599999999999998
+    ],
+    [
+     "en",
+     0.17999999999999972
+    ],
+    [
+     "sus",
+     0.2400000000000002
+    ],
+    [
+     "dientes,",
+     1.08
+    ],
+    [
+     "¿qué",
+     0.3800000000000008
+    ],
+    [
+     "es",
+     0.09999999999999964
+    ],
+    [
+     "lo",
+     0.16000000000000014
+    ],
+    [
+     "que",
+     0.27999999999999936
+    ],
+    [
+     "ves?",
+     0.3800000000000008
+    ]
+   ],
+   "end": 316.126
+  },
+  {
+   "start": 316.156,
+   "words": [
+    [
+     "Azuquitos",
+     0.759999999999998
+    ],
+    [
+     "pegajosos,",
+     1.6000000000000014
+    ],
+    [
+     "ji,",
+     0.5
+    ],
+    [
+     "ji,",
+     0.5
+    ],
+    [
+     "ji",
+     0.1999999999999993
+    ]
+   ],
+   "end": 320.066
+  },
+  {
+   "start": 319.716,
+   "words": [
+    [
+     "¡Lía",
+     1.0
+    ],
+    [
+     "trae",
+     0.4400000000000013
+    ],
+    [
+     "el",
+     0.1999999999999993
+    ],
+    [
+     "cepillo,",
+     1.2399999999999984
+    ],
+    [
+     "ya",
+     0.35999999999999943
+    ],
+    [
+     "están",
+     0.4400000000000013
+    ],
+    [
+     "aquí!",
+     0.379999999999999
+    ]
+   ],
+   "end": 324.126
+  },
+  {
+   "start": 324.836,
+   "words": [
+    [
+     "Cepillo,",
+     0.7199999999999989
+    ],
+    [
+     "cepillo,",
+     0.879999999999999
+    ],
+    [
+     "arriba",
+     0.5500000000000007
+    ],
+    [
+     "y",
+     0.14999999999999858
+    ],
+    [
+     "abajo,",
+     0.5600000000000023
+    ],
+    [
+     "chuf,",
+     0.5
+    ],
+    [
+     "chuf",
+     0.17999999999999972
+    ]
+   ],
+   "end": 328.726
+  },
+  {
+   "start": 328.376,
+   "words": [
+    [
+     "Cepillo,",
+     1.120000000000001
+    ],
+    [
+     "cepillo,",
+     1.0599999999999987
+    ],
+    [
+     "de",
+     0.08
+    ],
+    [
+     "lado",
+     0.4400000000000013
+    ],
+    [
+     "a",
+     0.16000000000000014
+    ],
+    [
+     "lado,",
+     0.4800000000000004
+    ],
+    [
+     "chuf,",
+     0.5199999999999996
+    ],
+    [
+     "chuf",
+     0.259999999999998
+    ]
+   ],
+   "end": 332.846
+  },
+  {
+   "start": 332.496,
+   "words": [
+    [
+     "Circulitos,",
+     1.3000000000000043
+    ],
+    [
+     "circulitos,",
+     1.0799999999999983
+    ],
+    [
+     "¡brillan",
+     0.35999999999999943
+    ],
+    [
+     "como",
+     0.3999999999999986
+    ],
+    [
+     "el",
+     0.17999999999999972
+    ],
+    [
+     "sol!",
+     0.3999999999999986
+    ]
+   ],
+   "end": 336.566
+  },
+  {
+   "start": 336.216,
+   "words": [
+    [
+     "¡Una",
+     0.720000000000006
+    ],
+    [
+     "sonrisa",
+     0.759999999999998
+    ],
+    [
+     "grande,",
+     0.6799999999999997
+    ],
+    [
+     "grande,",
+     0.29999999999999716
+    ],
+    [
+     "como",
+     0.4000000000000057
+    ],
+    [
+     "mi",
+     0.259999999999998
+    ],
+    [
+     "corazón!",
+     0.740000000000002
+    ]
+   ],
+   "end": 340.426
+  },
+  {
+   "start": 340.076,
+   "words": [
+    [
+     "Pipo",
+     1.259999999999998
+    ],
+    [
+     "quiere",
+     0.29999999999999716
+    ],
+    [
+     "cepillo,",
+     1.2000000000000028
+    ],
+    [
+     "guau,",
+     0.6000000000000014
+    ],
+    [
+     "guau,",
+     0.3999999999999986
+    ],
+    [
+     "guau",
+     0.519999999999996
+    ]
+   ],
+   "end": 344.706
+  },
+  {
+   "start": 344.356,
+   "words": [
+    [
+     "Lía",
+     0.8599999999999994
+    ],
+    [
+     "le",
+     0.14000000000000057
+    ],
+    [
+     "enseña",
+     0.5200000000000031
+    ],
+    [
+     "cómo,",
+     1.1599999999999966
+    ],
+    [
+     "¡mira",
+     0.6000000000000014
+    ],
+    [
+     "qué",
+     0.30000000000000426
+    ],
+    [
+     "bien!",
+     0.4199999999999946
+    ]
+   ],
+   "end": 348.706
+  },
+  {
+   "start": 348.356,
+   "words": [
+    [
+     "Un",
+     0.8599999999999994
+    ],
+    [
+     "poquito",
+     0.5200000000000031
+    ],
+    [
+     "de",
+     0.29999999999999716
+    ],
+    [
+     "pasta,",
+     0.5600000000000023
+    ],
+    [
+     "como",
+     0.5
+    ],
+    [
+     "un",
+     0.30000000000000426
+    ],
+    [
+     "guisante",
+     0.5599999999999952
+    ],
+    [
+     "es",
+     0.46000000000000085
+    ]
+   ],
+   "end": 352.766
+  },
+  {
+   "start": 352.416,
+   "words": [
+    [
+     "¡Y",
+     0.259999999999998
+    ],
+    [
+     "a",
+     0.20000000000000284
+    ],
+    [
+     "contar",
+     0.5
+    ],
+    [
+     "cepillando:",
+     1.3800000000000026
+    ],
+    [
+     "uno,",
+     0.8799999999999955
+    ],
+    [
+     "dos",
+     0.1600000000000037
+    ],
+    [
+     "y",
+     0.28000000000000114
+    ],
+    [
+     "tres!",
+     0.3999999999999986
+    ]
+   ],
+   "end": 356.826
+  },
+  {
+   "start": 357.636,
+   "words": [
+    [
+     "Cepillo,",
+     0.6000000000000014
+    ],
+    [
+     "cepillo,",
+     0.7999999999999972
+    ],
+    [
+     "arriba",
+     0.5100000000000051
+    ],
+    [
+     "y",
+     0.12999999999999545
+    ],
+    [
+     "abajo,",
+     0.35999999999999943
+    ],
+    [
+     "chuf,",
+     0.7000000000000028
+    ],
+    [
+     "chuf",
+     0.1600000000000037
+    ]
+   ],
+   "end": 361.246
+  },
+  {
+   "start": 361.236,
+   "words": [
+    [
+     "Cepillo,",
+     0.7800000000000011
+    ],
+    [
+     "cepillo,",
+     0.8599999999999994
+    ],
+    [
+     "de",
+     0.3200000000000003
+    ],
+    [
+     "lado",
+     0.4399999999999977
+    ],
+    [
+     "a",
+     0.1600000000000037
+    ],
+    [
+     "lado,",
+     0.46000000000000085
+    ],
+    [
+     "chuf,",
+     0.519999999999996
+    ],
+    [
+     "chuf",
+     0.2600000000000051
+    ]
+   ],
+   "end": 365.386
+  },
+  {
+   "start": 365.036,
+   "words": [
+    [
+     "Circulitos,",
+     1.2800000000000011
+    ],
+    [
+     "circulitos,",
+     0.9200000000000017
+    ],
+    [
+     "¡brillan",
+     0.5599999999999881
+    ],
+    [
+     "como",
+     0.38000000000000966
+    ],
+    [
+     "el",
+     0.1799999999999926
+    ],
+    [
+     "sol!",
+     0.4000000000000057
+    ]
+   ],
+   "end": 369.106
+  },
+  {
+   "start": 368.756,
+   "words": [
+    [
+     "¡Una",
+     0.7199999999999989
+    ],
+    [
+     "sonrisa",
+     0.7600000000000051
+    ],
+    [
+     "grande,",
+     0.6799999999999926
+    ],
+    [
+     "grande,",
+     0.29999999999999716
+    ],
+    [
+     "como",
+     0.4000000000000057
+    ],
+    [
+     "mi",
+     0.2599999999999909
+    ],
+    [
+     "corazón!",
+     0.7400000000000091
+    ]
+   ],
+   "end": 372.966
+  },
+  {
+   "start": 373.236,
+   "words": [
+    [
+     "Agua",
+     0.5999999999999943
+    ],
+    [
+     "en",
+     0.1599999999999966
+    ],
+    [
+     "la",
+     0.18000000000000682
+    ],
+    [
+     "boquita,",
+     1.4869999999999948
+    ],
+    [
+     "gluglú,",
+     0.5660000000000025
+    ],
+    [
+     "gluglú",
+     0.25
+    ]
+   ],
+   "end": 376.829
+  },
+  {
+   "start": 376.796,
+   "words": [
+    [
+     "Escupe",
+     1.1400000000000006
+    ],
+    [
+     "en",
+     0.18000000000000682
+    ],
+    [
+     "el",
+     0.21999999999999886
+    ],
+    [
+     "lavabo,",
+     1.2399999999999949
+    ],
+    [
+     "ptú,",
+     0.38000000000000966
+    ],
+    [
+     "ptú,",
+     0.37999999999999545
+    ],
+    [
+     "ptú",
+     0.25
+    ]
+   ],
+   "end": 380.936
+  },
+  {
+   "start": 380.716,
+   "words": [
+    [
+     "¿Y",
+     1.0200000000000102
+    ],
+    [
+     "los",
+     0.35999999999999943
+    ],
+    [
+     "azuquitos?",
+     1.519999999999996
+    ],
+    [
+     "¡Adiós,",
+     0.8999999999999915
+    ],
+    [
+     "adiós!",
+     0.7400000000000091
+    ]
+   ],
+   "end": 385.606
+  },
+  {
+   "start": 385.256,
+   "words": [
+    [
+     "Cepillo,",
+     1.1799999999999926
+    ],
+    [
+     "cepillo,",
+     1.1200000000000045
+    ],
+    [
+     "arriba",
+     0.45999999999999375
+    ],
+    [
+     "y",
+     0.14000000000000057
+    ],
+    [
+     "abajo,",
+     0.8330000000000126
+    ],
+    [
+     "chuf,",
+     0.47399999999998954
+    ],
+    [
+     "chuf",
+     0.25
+    ]
+   ],
+   "end": 390.063
+  },
+  {
+   "start": 389.936,
+   "words": [
+    [
+     "Cepillo,",
+     0.7199999999999989
+    ],
+    [
+     "cepillo,",
+     0.9400000000000119
+    ],
+    [
+     "de",
+     0.08
+    ],
+    [
+     "lado",
+     0.4200000000000017
+    ],
+    [
+     "a",
+     0.20000000000000284
+    ],
+    [
+     "lado,",
+     0.8799999999999955
+    ],
+    [
+     "chuf,",
+     0.5400000000000063
+    ],
+    [
+     "chuf",
+     0.25
+    ]
+   ],
+   "end": 394.296
+  },
+  {
+   "start": 394.236,
+   "words": [
+    [
+     "Circulitos,",
+     0.7199999999999989
+    ],
+    [
+     "circulitos,",
+     0.8999999999999915
+    ],
+    [
+     "¡brillan",
+     0.4200000000000017
+    ],
+    [
+     "como",
+     0.37999999999999545
+    ],
+    [
+     "el",
+     0.1600000000000108
+    ],
+    [
+     "sol!",
+     0.3999999999999915
+    ]
+   ],
+   "end": 397.566
+  },
+  {
+   "start": 397.216,
+   "words": [
+    [
+     "¡Una",
+     0.7400000000000091
+    ],
+    [
+     "sonrisa",
+     0.7399999999999949
+    ],
+    [
+     "grande,",
+     0.6799999999999926
+    ],
+    [
+     "grande,",
+     0.3200000000000074
+    ],
+    [
+     "como",
+     0.4000000000000057
+    ],
+    [
+     "mi",
+     0.2599999999999909
+    ],
+    [
+     "corazón!",
+     0.7600000000000051
+    ]
+   ],
+   "end": 401.466
+  },
+  {
+   "start": 429.62,
+   "words": [
+    [
+     "Ya",
+     1.3200000000000003
+    ],
+    [
+     "se",
+     0.35999999999999943
+    ],
+    [
+     "esconde",
+     1.0600000000000005
+    ],
+    [
+     "el",
+     0.6600000000000001
+    ],
+    [
+     "sol,",
+     0.6399999999999997
+    ],
+    [
+     "la",
+     0.7599999999999998
+    ],
+    [
+     "luna",
+     0.620000000000001
+    ],
+    [
+     "sale",
+     0.7199999999999989
+    ],
+    [
+     "ya",
+     0.5600000000000005
+    ]
+   ],
+   "end": 436.67
+  },
+  {
+   "start": 436.32,
+   "words": [
+    [
+     "Tomi",
+     2.16
+    ],
+    [
+     "se",
+     0.35999999999999943
+    ],
+    [
+     "pone",
+     0.6600000000000001
+    ],
+    [
+     "el",
+     0.6199999999999992
+    ],
+    [
+     "pijama,",
+     1.6000000000000014
+    ],
+    [
+     "¡qué",
+     0.120000000000001
+    ],
+    [
+     "suave",
+     0.6999999999999993
+    ],
+    [
+     "está!",
+     0.4399999999999977
+    ]
+   ],
+   "end": 443.33
+  },
+  {
+   "start": 443.92,
+   "words": [
+    [
+     "Buenas",
+     1.0599999999999987
+    ],
+    [
+     "noches,",
+     1.0200000000000031
+    ],
+    [
+     "Saltamundos,",
+     1.0399999999999991
+    ],
+    [
+     "a",
+     0.4800000000000004
+    ],
+    [
+     "soñar",
+     1.5199999999999996
+    ]
+   ],
+   "end": 449.39
+  },
+  {
+   "start": 449.04,
+   "words": [
+    [
+     "Mañana",
+     1.6799999999999997
+    ],
+    [
+     "otro",
+     0.259999999999998
+    ],
+    [
+     "mundo",
+     0.9000000000000021
+    ],
+    [
+     "nos",
+     1.0
+    ],
+    [
+     "va",
+     0.5599999999999987
+    ],
+    [
+     "a",
+     0.08000000000000185
+    ],
+    [
+     "esperar",
+     0.6999999999999993
+    ]
+   ],
+   "end": 454.57
+  },
+  {
+   "start": 454.22,
+   "words": [
+    [
+     "Cierra",
+     1.9800000000000004
+    ],
+    [
+     "los",
+     0.4599999999999973
+    ],
+    [
+     "ojitos,",
+     1.0200000000000031
+    ],
+    [
+     "uno,",
+     0.740000000000002
+    ],
+    [
+     "dos",
+     0.3199999999999932
+    ]
+   ],
+   "end": 459.09
+  },
+  {
+   "start": 458.74,
+   "words": [
+    [
+     "Buenas",
+     1.220000000000006
+    ],
+    [
+     "noches,",
+     0.8399999999999963
+    ],
+    [
+     "buenas",
+     0.46000000000000085
+    ],
+    [
+     "noches,",
+     1.3800000000000026
+    ],
+    [
+     "adiós",
+     2.1999999999999957
+    ]
+   ],
+   "end": 465.19
+  },
+  {
+   "start": 465.507,
+   "words": [
+    [
+     "Lía",
+     0.6660000000000039
+    ],
+    [
+     "lee",
+     0.6669999999999945
+    ],
+    [
+     "un",
+     0.6000000000000014
+    ],
+    [
+     "cuento",
+     0.6799999999999997
+    ],
+    [
+     "de",
+     0.7000000000000028
+    ],
+    [
+     "estrellas",
+     0.9399999999999977
+    ],
+    [
+     "y",
+     0.28000000000000114
+    ],
+    [
+     "de",
+     0.29999999999999716
+    ],
+    [
+     "mar",
+     0.5399999999999991
+    ]
+   ],
+   "end": 471.23
+  },
+  {
+   "start": 470.88,
+   "words": [
+    [
+     "Pipo",
+     1.8200000000000003
+    ],
+    [
+     "se",
+     0.240000000000002
+    ],
+    [
+     "acurruca,",
+     1.6799999999999997
+    ],
+    [
+     "ya",
+     0.1600000000000037
+    ],
+    [
+     "empieza",
+     0.6199999999999974
+    ],
+    [
+     "a",
+     0.4399999999999977
+    ],
+    [
+     "bostezar",
+     1.0399999999999991
+    ]
+   ],
+   "end": 477.23
+  },
+  {
+   "start": 476.88,
+   "words": [
+    [
+     "Buenas",
+     1.0800000000000054
+    ],
+    [
+     "noches,",
+     1.509999999999998
+    ],
+    [
+     "Saltamundos,",
+     0.769999999999996
+    ],
+    [
+     "a",
+     0.30000000000000426
+    ],
+    [
+     "soñar",
+     1.4200000000000017
+    ]
+   ],
+   "end": 482.31
+  },
+  {
+   "start": 481.96,
+   "words": [
+    [
+     "Mañana",
+     1.7399999999999949
+    ],
+    [
+     "otro",
+     0.30000000000000426
+    ],
+    [
+     "mundo",
+     0.8599999999999994
+    ],
+    [
+     "nos",
+     1.019999999999996
+    ],
+    [
+     "va",
+     0.5400000000000063
+    ],
+    [
+     "a",
+     0.11999999999999744
+    ],
+    [
+     "esperar",
+     0.740000000000002
+    ]
+   ],
+   "end": 487.63
+  },
+  {
+   "start": 487.88,
+   "words": [
+    [
+     "Cierra",
+     1.3200000000000074
+    ],
+    [
+     "los",
+     0.45999999999999375
+    ],
+    [
+     "ojitos,",
+     1.1000000000000085
+    ],
+    [
+     "uno,",
+     0.6999999999999886
+    ],
+    [
+     "dos",
+     0.28000000000000114
+    ]
+   ],
+   "end": 492.09
+  },
+  {
+   "start": 491.74,
+   "words": [
+    [
+     "Buenas",
+     1.2199999999999989
+    ],
+    [
+     "noches,",
+     0.8000000000000114
+    ],
+    [
+     "buenas",
+     0.5
+    ],
+    [
+     "noches,",
+     1.5799999999999983
+    ],
+    [
+     "adiós",
+     1.1999999999999886
+    ]
+   ],
+   "end": 497.39
+  },
+  {
+   "start": 498.26,
+   "words": [
+    [
+     "Un",
+     1.1999999999999886
+    ],
+    [
+     "abrazo",
+     0.8800000000000097
+    ],
+    [
+     "grande,",
+     1.1199999999999903
+    ],
+    [
+     "un",
+     0.20000000000000284
+    ],
+    [
+     "besito",
+     0.9399999999999977
+    ],
+    [
+     "al",
+     0.4399999999999977
+    ],
+    [
+     "final",
+     0.6000000000000085
+    ]
+   ],
+   "end": 503.99
+  },
+  {
+   "start": 503.64,
+   "words": [
+    [
+     "La",
+     0.539999999999992
+    ],
+    [
+     "lucecita",
+     1.740000000000009
+    ],
+    [
+     "se",
+     0.35999999999999943
+    ],
+    [
+     "apaga...",
+     2.1299999999999955
+    ],
+    [
+     "shhh",
+     0.25
+    ]
+   ],
+   "end": 509.01
+  },
+  {
+   "start": 509.62,
+   "words": [
+    [
+     "Buenas",
+     1.3599999999999994
+    ],
+    [
+     "noches,",
+     1.3999999999999915
+    ],
+    [
+     "Saltamundos,",
+     0.6800000000000068
+    ],
+    [
+     "a",
+     0.47999999999998977
+    ],
+    [
+     "soñar",
+     1.480000000000004
+    ]
+   ],
+   "end": 515.37
+  },
+  {
+   "start": 515.02,
+   "words": [
+    [
+     "Mañana",
+     1.6800000000000068
+    ],
+    [
+     "otro",
+     0.29999999999999716
+    ],
+    [
+     "mundo",
+     0.8799999999999955
+    ],
+    [
+     "nos",
+     0.9399999999999977
+    ],
+    [
+     "va",
+     0.6000000000000085
+    ],
+    [
+     "a",
+     0.11999999999999034
+    ],
+    [
+     "esperar",
+     0.6800000000000068
+    ]
+   ],
+   "end": 520.57
+  },
+  {
+   "start": 520.92,
+   "words": [
+    [
+     "Cierra",
+     1.2800000000000011
+    ],
+    [
+     "los",
+     0.45999999999999375
+    ],
+    [
+     "ojitos,",
+     1.1000000000000085
+    ],
+    [
+     "uno,",
+     0.6599999999999966
+    ],
+    [
+     "dos",
+     0.3199999999999932
+    ]
+   ],
+   "end": 525.09
+  },
+  {
+   "start": 524.74,
+   "words": [
+    [
+     "Buenas",
+     1.2199999999999989
+    ],
+    [
+     "noches,",
+     0.7800000000000011
+    ],
+    [
+     "buenas",
+     0.5200000000000102
+    ],
+    [
+     "noches,",
+     1.6599999999999966
+    ],
+    [
+     "adiós",
+     0.25
+    ]
+   ],
+   "end": 529.52
+  },
+  {
+   "start": 530.404,
+   "words": [
+    [
+     "¡Verdurita,",
+     1.2000000000000028
+    ],
+    [
+     "sí!",
+     0.8599999999999994
+    ],
+    [
+     "¡Verdurita,",
+     1.1599999999999966
+    ],
+    [
+     "sí!",
+     0.539999999999992
+    ]
+   ],
+   "end": 534.514
+  },
+  {
+   "start": 534.164,
+   "words": [
+    [
+     "Me",
+     0.9200000000000017
+    ],
+    [
+     "hace",
+     0.5799999999999983
+    ],
+    [
+     "fuerte,",
+     1.1600000000000108
+    ],
+    [
+     "me",
+     0.14000000000000057
+    ],
+    [
+     "hace",
+     0.4199999999999875
+    ],
+    [
+     "feliz",
+     0.960000000000008
+    ]
+   ],
+   "end": 538.694
+  },
+  {
+   "start": 538.344,
+   "words": [
+    [
+     "Brócoli,",
+     1.9899999999999949
+    ],
+    [
+     "guisantes,",
+     0.6500000000000057
+    ],
+    [
+     "¡salto",
+     0.45999999999999375
+    ],
+    [
+     "hasta",
+     0.35999999999999943
+    ],
+    [
+     "el",
+     0.18000000000000682
+    ],
+    [
+     "sol!",
+     0.23999999999999488
+    ]
+   ],
+   "end": 542.574
+  },
+  {
+   "start": 542.224,
+   "words": [
+    [
+     "¡Verdurita,",
+     1.8800000000000097
+    ],
+    [
+     "sí!",
+     0.45999999999999375
+    ],
+    [
+     "¡Con",
+     0.35999999999999943
+    ],
+    [
+     "todo",
+     0.45999999999999375
+    ],
+    [
+     "mi",
+     0.35999999999999943
+    ],
+    [
+     "corazón!",
+     1.2800000000000011
+    ]
+   ],
+   "end": 547.374
+  }
+ ]
+}

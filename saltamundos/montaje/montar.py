@@ -81,7 +81,8 @@ def mezclar_audio(ep, total, tmp):
     for k, s in enumerate([{"file": ep["music"], "t": ep.get("music_offset", 0), "gain": 0}] + ep.get("sfx", [])):
         inputs += ["-i", s["file"]]
         ms = int(round(s["t"] * 1000))
-        filt.append(f"[{k}:a]aresample=48000,aformat=channel_layouts=stereo,"
+        recorte = f"atrim=start={s['desde']},asetpts=PTS-STARTPTS," if s.get("desde") else ""
+        filt.append(f"[{k}:a]{recorte}aresample=48000,aformat=channel_layouts=stereo,"
                     f"volume={s.get('gain', 0)}dB,adelay={ms}|{ms}[a{k}]")
         labels.append(f"[a{k}]")
     filt.append(f"{''.join(labels)}amix=inputs={len(labels)}:normalize=0:dropout_transition=0,"
